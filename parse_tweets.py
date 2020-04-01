@@ -1,16 +1,24 @@
 import pandas as pd
 import json
 from preprocessor import clean as c
-
+import string
 
 tweets = []
-with open('data/test.txt', 'r') as f:
+with open('data/raw_tweets.txt', 'r') as f:
     for line in f:
-        tweets.append(json.loads(line))
+        clean = ''
+        for ch in c(line):
+            if ch not in string.punctuation:
+                clean += ch
+        print(clean)
+
+        tweets.append(clean)
+
+x = list(range(len(tweets)))
+
+df = pd.DataFrame({'id': x,
+                   'tweets': tweets})
+
+df.to_csv('tweets.csv', index=False)
 
 
-df = pd.DataFrame(tweets, columns=tweets[0].keys())
-df = df[['id', 'text']]
-df['text'] = df['text'].map(c)
-
-df.to_csv('data/tweets.csv', index=False)
