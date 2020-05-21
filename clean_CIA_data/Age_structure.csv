@@ -1,0 +1,2671 @@
+,Country,Category,Population
+0,Afghanistan,0-14_male,7263716.0
+1,Albania,0-14_male,287750.0
+2,Algeria,0-14_male,6290619.0
+3,American Samoa,0-14_male,7732.0
+4,Andorra,0-14_male,6197.0
+5,Angola,0-14_male,7257155.0
+6,Anguilla,0-14_male,1954.0
+7,Antigua and Barbuda,0-14_male,11165.0
+8,Argentina,0-14_male,5629345.0
+9,Armenia,0-14_male,303712.0
+10,Aruba,0-14_male,10304.0
+11,Australia,0-14_male,2138080.0
+12,Austria,0-14_male,630739.0
+13,Azerbaijan,0-14_male,1233424.0
+14,"Bahamas, The",0-14_male,37777.0
+15,Bahrain,0-14_male,138309.0
+16,Bangladesh,0-14_male,22135349.0
+17,Barbados,0-14_male,26084.0
+18,Belarus,0-14_male,779577.0
+19,Belgium,0-14_male,1019427.0
+20,Belize,0-14_male,66207.0
+21,Benin,0-14_male,2445265.0
+22,Bermuda,0-14_male,6088.0
+23,Bhutan,0-14_male,99325.0
+24,Bolivia,0-14_male,1805765.0
+25,Bosnia and Herzegovina,0-14_male,263338.0
+26,Botswana,0-14_male,357175.0
+27,Brazil,0-14_male,23310437.0
+28,British Virgin Islands,0-14_male,2949.0
+29,Brunei,0-14_male,52995.0
+30,Bulgaria,0-14_male,530219.0
+31,Burkina Faso,0-14_male,4434908.0
+32,Burma,0-14_male,7556848.0
+33,Burundi,0-14_male,2712836.0
+34,Cabo Verde,0-14_male,82035.0
+35,Cambodia,0-14_male,2556733.0
+36,Cameroon,0-14_male,5445142.0
+37,Canada,0-14_male,2839236.0
+38,Cayman Islands,0-14_male,5376.0
+39,Central African Republic,0-14_male,1151724.0
+40,Chad,0-14_male,3856001.0
+41,Chile,0-14_male,1827657.0
+42,China,0-14_male,128270371.0
+43,Christmas Island,0-14_male,147.0
+44,Colombia,0-14_male,5895637.0
+45,Comoros,0-14_male,157764.0
+46,"Congo, Democratic Republic of the",0-14_male,17735697.0
+47,"Congo, Republic of the",0-14_male,1066474.0
+48,Cook Islands,0-14_male,987.0
+49,Costa Rica,0-14_male,572172.0
+50,Cote d'Ivoire,0-14_male,5213630.0
+51,Croatia,0-14_male,312805.0
+52,Cuba,0-14_male,940787.0
+53,Curacao,0-14_male,15250.0
+54,Cyprus,0-14_male,99390.0
+55,Czechia,0-14_male,834800.0
+56,Denmark,0-14_male,493829.0
+57,Djibouti,0-14_male,136191.0
+58,Dominica,0-14_male,8187.0
+59,Dominican Republic,0-14_male,1442926.0
+60,Ecuador,0-14_male,2242148.0
+61,Egypt,0-14_male,17177977.0
+62,El Salvador,0-14_male,802813.0
+63,Equatorial Guinea,0-14_male,159814.0
+64,Eritrea,0-14_male,1186749.0
+65,Estonia,0-14_male,104024.0
+66,Eswatini,0-14_male,186747.0
+67,Ethiopia,0-14_male,23494593.0
+68,European Union,0-14_male,40905648.0
+69,Faroe Islands,0-14_male,5220.0
+70,Fiji,0-14_male,129962.0
+71,Finland,0-14_male,465298.0
+72,France,0-14_male,6366789.0
+73,French Polynesia,0-14_male,33165.0
+74,Gabon,0-14_male,405676.0
+75,"Gambia, The",0-14_male,388615.0
+76,Gaza Strip,0-14_male,415746.0
+77,Georgia,0-14_male,469163.0
+78,Germany,0-14_male,5299798.0
+79,Ghana,0-14_male,5344146.0
+80,Gibraltar,0-14_male,3064.0
+81,Greece,0-14_male,760615.0
+82,Greenland,0-14_male,6151.0
+83,Grenada,0-14_male,13901.0
+84,Guam,0-14_male,23893.0
+85,Guatemala,0-14_male,2919281.0
+86,Guernsey,0-14_male,4994.0
+87,Guinea,0-14_male,2473486.0
+88,Guinea-Bissau,0-14_male,400666.0
+89,Guyana,0-14_male,95740.0
+90,Haiti,0-14_male,1733920.0
+91,Honduras,0-14_male,1518526.0
+92,Hong Kong,0-14_male,471983.0
+93,Hungary,0-14_male,741624.0
+94,Iceland,0-14_male,35812.0
+95,India,0-14_male,185736879.0
+96,Indonesia,0-14_male,32967727.0
+97,Iran,0-14_male,10291493.0
+98,Iraq,0-14_male,8005327.0
+99,Ireland,0-14_male,554110.0
+100,Isle of Man,0-14_male,7587.0
+101,Israel,0-14_male,1175106.0
+102,Italy,0-14_male,4326862.0
+103,Jamaica,0-14_male,372158.0
+104,Japan,0-14_male,8251336.0
+105,Jersey,0-14_male,8430.0
+106,Jordan,0-14_male,1835094.0
+107,Kazakhstan,0-14_male,2406397.0
+108,Kenya,0-14_male,9474968.0
+109,Kiribati,0-14_male,16316.0
+110,"Korea, North",0-14_male,2669357.0
+111,"Korea, South",0-14_male,3448627.0
+112,Kosovo,0-14_male,245188.0
+113,Kuwait,0-14_male,376652.0
+114,Kyrgyzstan,0-14_male,912455.0
+115,Laos,0-14_male,1177639.0
+116,Latvia,0-14_male,150514.0
+117,Lebanon,0-14_male,728025.0
+118,Lesotho,0-14_male,314155.0
+119,Liberia,0-14_male,1062766.0
+120,Libya,0-14_male,882099.0
+121,Liechtenstein,0-14_male,3179.0
+122,Lithuania,0-14_male,216519.0
+123,Luxembourg,0-14_male,52243.0
+124,Macau,0-14_male,43730.0
+125,Macedonia,0-14_male,177719.0
+126,Madagascar,0-14_male,5119804.0
+127,Malawi,0-14_male,4560940.0
+128,Malaysia,0-14_male,4498796.0
+129,Maldives,0-14_male,43293.0
+130,Mali,0-14_male,4449790.0
+131,Malta,0-14_male,33156.0
+132,Marshall Islands,0-14_male,13224.0
+133,Mauritania,0-14_male,737570.0
+134,Mauritius,0-14_male,138707.0
+135,Mexico,0-14_male,17143124.0
+136,"Micronesia, Federated States of",0-14_male,15707.0
+137,Moldova,0-14_male,324002.0
+138,Monaco,0-14_male,1622.0
+139,Mongolia,0-14_male,427225.0
+140,Montenegro,0-14_male,58219.0
+141,Montserrat,0-14_male,436.0
+142,Morocco,0-14_male,4441554.0
+143,Mozambique,0-14_male,6097116.0
+144,Namibia,0-14_male,467392.0
+145,Nauru,0-14_male,1323.0
+146,Nepal,0-14_male,4578768.0
+147,Netherlands,0-14_male,1428837.0
+148,New Caledonia,0-14_male,32057.0
+149,New Zealand,0-14_male,457071.0
+150,Nicaragua,0-14_male,827585.0
+151,Niger,0-14_male,4878031.0
+152,Nigeria,0-14_male,44087799.0
+153,Northern Mariana Islands,0-14_male,7355.0
+154,Norway,0-14_male,495403.0
+155,Oman,0-14_male,539202.0
+156,Pakistan,0-14_male,32828078.0
+157,Palau,0-14_male,2149.0
+158,Panama,0-14_male,506953.0
+159,Papua New Guinea,0-14_male,1178509.0
+160,Paraguay,0-14_male,862803.0
+161,Peru,0-14_male,4147404.0
+162,Philippines,0-14_male,17870983.0
+163,Poland,0-14_male,2924077.0
+164,Portugal,0-14_male,743277.0
+165,Puerto Rico,0-14_male,256866.0
+166,Qatar,0-14_male,151888.0
+167,Romania,0-14_male,1576621.0
+168,Russia,0-14_male,12566314.0
+169,Rwanda,0-14_male,2521169.0
+170,Saint Barthelemy,0-14_male,587.0
+171,"Saint Helena, Ascension, and Tristan da Cunha",0-14_male,627.0
+172,Saint Kitts and Nevis,0-14_male,5354.0
+173,Saint Lucia,0-14_male,16840.0
+174,Saint Martin,0-14_male,4184.0
+175,Saint Pierre and Miquelon,0-14_male,420.0
+176,Saint Vincent and the Grenadines,0-14_male,10725.0
+177,Samoa,0-14_male,31862.0
+178,San Marino,0-14_male,2687.0
+179,Sao Tome and Principe,0-14_male,42825.0
+180,Saudi Arabia,0-14_male,4348227.0
+181,Senegal,0-14_male,3106942.0
+182,Serbia,0-14_male,523473.0
+183,Seychelles,0-14_male,9482.0
+184,Sierra Leone,0-14_male,1314905.0
+185,Singapore,0-14_male,391714.0
+186,Sint Maarten,0-14_male,4110.0
+187,Slovakia,0-14_male,424921.0
+188,Slovenia,0-14_male,159700.0
+189,Solomon Islands,0-14_male,115734.0
+190,Somalia,0-14_male,2410215.0
+191,South Africa,0-14_male,7815651.0
+192,South Sudan,0-14_male,2194952.0
+193,Spain,0-14_male,3879229.0
+194,Sri Lanka,0-14_male,2734114.0
+195,Sudan,0-14_male,9434634.0
+196,Suriname,0-14_male,73466.0
+197,Sweden,0-14_male,904957.0
+198,Switzerland,0-14_male,650151.0
+199,Syria,0-14_male,3132619.0
+200,Taiwan,0-14_male,1535365.0
+201,Tajikistan,0-14_male,1404403.0
+202,Tanzania,0-14_male,12159482.0
+203,Thailand,0-14_male,5880026.0
+204,Timor-Leste,0-14_male,274881.0
+205,Togo,0-14_male,1646438.0
+206,Tonga,0-14_male,17979.0
+207,Trinidad and Tobago,0-14_male,119093.0
+208,Tunisia,0-14_male,1502655.0
+209,Turkey,0-14_male,10085558.0
+210,Turkmenistan,0-14_male,704067.0
+211,Turks and Caicos Islands,0-14_male,5916.0
+212,Tuvalu,0-14_male,1675.0
+213,Uganda,0-14_male,9753880.0
+214,Ukraine,0-14_male,3609386.0
+215,United Arab Emirates,0-14_male,724904.0
+216,United Kingdom,0-14_male,5871268.0
+217,United States,0-14_male,31329121.0
+218,Uruguay,0-14_male,341402.0
+219,Uzbekistan,0-14_male,3631957.0
+220,Vanuatu,0-14_male,51313.0
+221,Venezuela,0-14_male,4392305.0
+222,Vietnam,0-14_male,11876141.0
+223,Virgin Islands,0-14_male,11102.0
+224,Wallis and Futuna,0-14_male,1749.0
+225,West Bank,0-14_male,518376.0
+226,Western Sahara,0-14_male,115703.0
+227,World,0-14_male,963981944.0
+228,Yemen,0-14_male,5711709.0
+229,Zambia,0-14_male,3796548.0
+230,Zimbabwe,0-14_male,2681192.0
+231,Akrotiri,0-14_male,
+232,Antarctica,0-14_male,
+233,Arctic Ocean,0-14_male,
+234,Ashmore and Cartier Islands,0-14_male,
+235,Atlantic Ocean,0-14_male,
+236,Bouvet Island,0-14_male,
+237,British Indian Ocean Territory,0-14_male,
+238,Clipperton Island,0-14_male,
+239,Cocos (Keeling) Islands,0-14_male,
+240,Coral Sea Islands,0-14_male,
+241,Dhekelia,0-14_male,
+242,Falkland Islands (Islas Malvinas),0-14_male,
+243,French Southern and Antarctic Lands,0-14_male,
+244,Heard Island and McDonald Islands,0-14_male,
+245,Holy See (Vatican City),0-14_male,
+246,Howland Island,0-14_male,
+247,Indian Ocean,0-14_male,
+248,Jan Mayen,0-14_male,
+249,Jarvis Island,0-14_male,
+250,Johnston Atoll,0-14_male,
+251,Kingman Reef,0-14_male,
+252,Midway Islands,0-14_male,
+253,Navassa Island,0-14_male,
+254,Niue,0-14_male,
+255,Norfolk Island,0-14_male,
+256,Pacific Ocean,0-14_male,
+257,Palmyra Atoll,0-14_male,
+258,Paracel Islands,0-14_male,
+259,Pitcairn Islands,0-14_male,
+260,South Georgia and South Sandwich Islands,0-14_male,
+261,Southern Ocean,0-14_male,
+262,Spratly Islands,0-14_male,
+263,Svalbard,0-14_male,
+264,Tokelau,0-14_male,
+265,United States Pacific Island Wildlife Refuges,0-14_male,
+266,Wake Island,0-14_male,
+267,Afghanistan,0-14_female,7033427.0
+268,Albania,0-14_female,257675.0
+269,Algeria,0-14_female,5993733.0
+270,American Samoa,0-14_female,7305.0
+271,Andorra,0-14_female,5856.0
+272,Angola,0-14_female,7336084.0
+273,Anguilla,0-14_female,1880.0
+274,Antigua and Barbuda,0-14_female,10800.0
+275,Argentina,0-14_female,5293680.0
+276,Armenia,0-14_female,269279.0
+277,Aruba,0-14_female,10227.0
+278,Australia,0-14_female,2027583.0
+279,Austria,0-14_female,600663.0
+280,Azerbaijan,0-14_female,1082007.0
+281,"Bahamas, The",0-14_female,36686.0
+282,Bahrain,0-14_female,134067.0
+283,Bangladesh,0-14_female,21373470.0
+284,Barbados,0-14_female,26090.0
+285,Belarus,0-14_female,736481.0
+286,Belgium,0-14_female,970845.0
+287,Belize,0-14_female,63466.0
+288,Benin,0-14_female,2347091.0
+289,Bermuda,0-14_female,5957.0
+290,Bhutan,0-14_female,94985.0
+291,Bolivia,0-14_female,1737647.0
+292,Bosnia and Herzegovina,0-14_female,246220.0
+293,Botswana,0-14_female,350775.0
+294,Brazil,0-14_female,22414551.0
+295,British Virgin Islands,0-14_female,3036.0
+296,Brunei,0-14_female,49836.0
+297,Bulgaria,0-14_female,500398.0
+298,Burkina Faso,0-14_female,4307438.0
+299,Burma,0-14_female,7216374.0
+300,Burundi,0-14_female,2678223.0
+301,Cabo Verde,0-14_female,81082.0
+302,Cambodia,0-14_female,2503796.0
+303,Cameroon,0-14_female,5362166.0
+304,Canada,0-14_female,2698592.0
+305,Cayman Islands,0-14_female,5298.0
+306,Central African Republic,0-14_female,1140083.0
+307,Chad,0-14_female,3763622.0
+308,Chile,0-14_female,1754253.0
+309,China,0-14_female,110120535.0
+310,Christmas Island,0-14_female,135.0
+311,Colombia,0-14_female,5611298.0
+312,Comoros,0-14_female,158676.0
+313,"Congo, Democratic Republic of the",0-14_female,17446866.0
+314,"Congo, Republic of the",0-14_female,1046924.0
+315,Cook Islands,0-14_female,882.0
+316,Costa Rica,0-14_female,546464.0
+317,Cote d'Ivoire,0-14_female,5182872.0
+318,Croatia,0-14_female,293931.0
+319,Cuba,0-14_female,886996.0
+320,Curacao,0-14_female,14613.0
+321,Cyprus,0-14_female,94053.0
+322,Czechia,0-14_female,790128.0
+323,Denmark,0-14_female,468548.0
+324,Djibouti,0-14_female,135263.0
+325,Dominica,0-14_female,7815.0
+326,Dominican Republic,0-14_female,1395809.0
+327,Ecuador,0-14_female,2153776.0
+328,Egypt,0-14_female,16007877.0
+329,El Salvador,0-14_female,762852.0
+330,Equatorial Guinea,0-14_female,154860.0
+331,Eritrea,0-14_female,1173530.0
+332,Estonia,0-14_female,98757.0
+333,Eswatini,0-14_female,187412.0
+334,Ethiopia,0-14_female,23336508.0
+335,European Union,0-14_female,38860151.0
+336,Faroe Islands,0-14_female,4878.0
+337,Fiji,0-14_female,124305.0
+338,Finland,0-14_female,445186.0
+339,France,0-14_female,6082729.0
+340,French Polynesia,0-14_female,31322.0
+341,Gabon,0-14_female,387900.0
+342,"Gambia, The",0-14_female,385172.0
+343,Gaza Strip,0-14_female,394195.0
+344,Georgia,0-14_female,428734.0
+345,Germany,0-14_female,5024184.0
+346,Ghana,0-14_female,5286383.0
+347,Gibraltar,0-14_female,2915.0
+348,Greece,0-14_female,716054.0
+349,Greenland,0-14_female,5962.0
+350,Grenada,0-14_female,12851.0
+351,Guam,0-14_female,22207.0
+352,Guatemala,0-14_female,2810329.0
+353,Guernsey,0-14_female,4686.0
+354,Guinea,0-14_female,2435139.0
+355,Guinea-Bissau,0-14_female,397704.0
+356,Guyana,0-14_female,92282.0
+357,Haiti,0-14_female,1747387.0
+358,Honduras,0-14_female,1453891.0
+359,Hong Kong,0-14_female,420977.0
+360,Hungary,0-14_female,698905.0
+361,Iceland,0-14_female,34249.0
+362,India,0-14_female,164194080.0
+363,Indonesia,0-14_female,31757882.0
+364,Iran,0-14_female,9823838.0
+365,Iraq,0-14_female,7674802.0
+366,Ireland,0-14_female,529067.0
+367,Isle of Man,0-14_female,6960.0
+368,Israel,0-14_female,1121309.0
+369,Italy,0-14_female,4136562.0
+370,Jamaica,0-14_female,359388.0
+371,Japan,0-14_female,7787234.0
+372,Jersey,0-14_female,7870.0
+373,Jordan,0-14_female,1735773.0
+374,Kazakhstan,0-14_female,2483562.0
+375,Kenya,0-14_female,9416609.0
+376,Kiribati,0-14_female,15693.0
+377,"Korea, North",0-14_female,2571195.0
+378,"Korea, South",0-14_female,3251786.0
+379,Kosovo,0-14_female,226766.0
+380,Kuwait,0-14_female,347019.0
+381,Kyrgyzstan,0-14_female,865910.0
+382,Laos,0-14_female,1151134.0
+383,Latvia,0-14_female,142580.0
+384,Lebanon,0-14_female,694453.0
+385,Lesotho,0-14_female,310772.0
+386,Liberia,0-14_female,1040211.0
+387,Libya,0-14_female,842320.0
+388,Liechtenstein,0-14_female,2692.0
+389,Lithuania,0-14_female,205624.0
+390,Luxembourg,0-14_female,49183.0
+391,Macau,0-14_female,40651.0
+392,Macedonia,0-14_female,166374.0
+393,Madagascar,0-14_female,5037438.0
+394,Malawi,0-14_female,4600184.0
+395,Malaysia,0-14_female,4243418.0
+396,Maldives,0-14_female,41563.0
+397,Mali,0-14_female,4402076.0
+398,Malta,0-14_female,31012.0
+399,Marshall Islands,0-14_female,12706.0
+400,Mauritania,0-14_female,730969.0
+401,Mauritius,0-14_female,132774.0
+402,Mexico,0-14_female,16378309.0
+403,"Micronesia, Federated States of",0-14_female,15186.0
+404,Moldova,0-14_female,304737.0
+405,Monaco,0-14_female,1533.0
+406,Mongolia,0-14_female,410579.0
+407,Montenegro,0-14_female,53718.0
+408,Montserrat,0-14_female,414.0
+409,Morocco,0-14_female,4298715.0
+410,Mozambique,0-14_female,6028416.0
+411,Namibia,0-14_female,458190.0
+412,Nauru,0-14_female,1699.0
+413,Nepal,0-14_female,4198913.0
+414,Netherlands,0-14_female,1362686.0
+415,New Caledonia,0-14_female,30675.0
+416,New Zealand,0-14_female,434789.0
+417,Nicaragua,0-14_female,794086.0
+418,Niger,0-14_female,4793021.0
+419,Nigeria,0-14_female,42278742.0
+420,Northern Mariana Islands,0-14_female,6252.0
+421,Norway,0-14_female,471014.0
+422,Oman,0-14_female,512416.0
+423,Pakistan,0-14_female,31118626.0
+424,Palau,0-14_female,2019.0
+425,Panama,0-14_female,486129.0
+426,Papua New Guinea,0-14_female,1136069.0
+427,Paraguay,0-14_female,832325.0
+428,Peru,0-14_female,4001069.0
+429,Philippines,0-14_female,17151096.0
+430,Poland,0-14_female,2762634.0
+431,Portugal,0-14_female,707437.0
+432,Puerto Rico,0-14_female,245518.0
+433,Qatar,0-14_female,148186.0
+434,Romania,0-14_female,1493082.0
+435,Russia,0-14_female,11896416.0
+436,Rwanda,0-14_female,2473055.0
+437,Saint Barthelemy,0-14_female,556.0
+438,"Saint Helena, Ascension, and Tristan da Cunha",0-14_female,603.0
+439,Saint Kitts and Nevis,0-14_female,5311.0
+440,Saint Lucia,0-14_female,15874.0
+441,Saint Martin,0-14_female,4225.0
+442,Saint Pierre and Miquelon,0-14_female,394.0
+443,Saint Vincent and the Grenadines,0-14_female,10534.0
+444,Samoa,0-14_female,29875.0
+445,San Marino,0-14_female,2392.0
+446,Sao Tome and Principe,0-14_female,41403.0
+447,Saudi Arabia,0-14_female,4170944.0
+448,Senegal,0-14_female,3074740.0
+449,Serbia,0-14_female,492339.0
+450,Seychelles,0-14_female,8989.0
+451,Sierra Leone,0-14_female,1317921.0
+452,Singapore,0-14_female,373766.0
+453,Sint Maarten,0-14_female,3785.0
+454,Slovakia,0-14_female,402483.0
+455,Slovenia,0-14_female,151351.0
+456,Solomon Islands,0-14_female,109009.0
+457,Somalia,0-14_female,2416629.0
+458,South Africa,0-14_female,7793261.0
+459,South Sudan,0-14_female,2121990.0
+460,Spain,0-14_female,3664016.0
+461,Sri Lanka,0-14_female,2627695.0
+462,Sudan,0-14_female,9136951.0
+463,Suriname,0-14_female,70704.0
+464,Sweden,0-14_female,855946.0
+465,Switzerland,0-14_female,612479.0
+466,Syria,0-14_female,2974394.0
+467,Taiwan,0-14_female,1449336.0
+468,Tajikistan,0-14_female,1353704.0
+469,Tanzania,0-14_female,11908654.0
+470,Thailand,0-14_female,5598611.0
+471,Timor-Leste,0-14_female,259736.0
+472,Togo,0-14_female,1634609.0
+473,Tonga,0-14_female,17404.0
+474,Trinidad and Tobago,0-14_female,114830.0
+475,Tunisia,0-14_female,1405310.0
+476,Turkey,0-14_female,9627967.0
+477,Turkmenistan,0-14_female,684581.0
+478,Turks and Caicos Islands,0-14_female,5694.0
+479,Tuvalu,0-14_female,1593.0
+480,Uganda,0-14_female,9789455.0
+481,Ukraine,0-14_female,3400349.0
+482,United Arab Emirates,0-14_female,671524.0
+483,United Kingdom,0-14_female,5582107.0
+484,United States,0-14_female,29984705.0
+485,Uruguay,0-14_female,329474.0
+486,Uzbekistan,0-14_female,3457274.0
+487,Vanuatu,0-14_female,49190.0
+488,Venezuela,0-14_female,4176518.0
+489,Vietnam,0-14_female,10704895.0
+490,Virgin Islands,0-14_female,10570.0
+491,Wallis and Futuna,0-14_female,1606.0
+492,West Bank,0-14_female,491676.0
+493,Western Sahara,0-14_female,113121.0
+494,World,0-14_female,898974458.0
+495,Yemen,0-14_female,5513526.0
+496,Zambia,0-14_female,3759624.0
+497,Zimbabwe,0-14_female,2736876.0
+498,Akrotiri,0-14_female,
+499,Antarctica,0-14_female,
+500,Arctic Ocean,0-14_female,
+501,Ashmore and Cartier Islands,0-14_female,
+502,Atlantic Ocean,0-14_female,
+503,Bouvet Island,0-14_female,
+504,British Indian Ocean Territory,0-14_female,
+505,Clipperton Island,0-14_female,
+506,Cocos (Keeling) Islands,0-14_female,
+507,Coral Sea Islands,0-14_female,
+508,Dhekelia,0-14_female,
+509,Falkland Islands (Islas Malvinas),0-14_female,
+510,French Southern and Antarctic Lands,0-14_female,
+511,Heard Island and McDonald Islands,0-14_female,
+512,Holy See (Vatican City),0-14_female,
+513,Howland Island,0-14_female,
+514,Indian Ocean,0-14_female,
+515,Jan Mayen,0-14_female,
+516,Jarvis Island,0-14_female,
+517,Johnston Atoll,0-14_female,
+518,Kingman Reef,0-14_female,
+519,Midway Islands,0-14_female,
+520,Navassa Island,0-14_female,
+521,Niue,0-14_female,
+522,Norfolk Island,0-14_female,
+523,Pacific Ocean,0-14_female,
+524,Palmyra Atoll,0-14_female,
+525,Paracel Islands,0-14_female,
+526,Pitcairn Islands,0-14_female,
+527,South Georgia and South Sandwich Islands,0-14_female,
+528,Southern Ocean,0-14_female,
+529,Spratly Islands,0-14_female,
+530,Svalbard,0-14_female,
+531,Tokelau,0-14_female,
+532,United States Pacific Island Wildlife Refuges,0-14_female,
+533,Wake Island,0-14_female,
+534,Afghanistan,15-24_male,3883693.0
+535,Albania,15-24_male,267695.0
+536,Algeria,15-24_male,3137975.0
+537,American Samoa,15-24_male,4695.0
+538,Andorra,15-24_male,4344.0
+539,Angola,15-24_male,2701123.0
+540,Anguilla,15-24_male,1231.0
+541,Antigua and Barbuda,15-24_male,7924.0
+542,Argentina,15-24_male,3476344.0
+543,Armenia,15-24_male,195722.0
+544,Aruba,15-24_male,7355.0
+545,Australia,15-24_male,1520528.0
+546,Austria,15-24_male,484515.0
+547,Azerbaijan,15-24_male,743142.0
+548,"Bahamas, The",15-24_male,26984.0
+549,Bahrain,15-24_male,126564.0
+550,Bangladesh,15-24_male,15313674.0
+551,Barbados,15-24_male,18236.0
+552,Belarus,15-24_male,488240.0
+553,Belgium,15-24_male,664789.0
+554,Belize,15-24_male,37184.0
+555,Benin,15-24_male,1184977.0
+556,Bermuda,15-24_male,4306.0
+557,Bhutan,15-24_male,71790.0
+558,Bolivia,15-24_male,1109388.0
+559,Bosnia and Herzegovina,15-24_male,223824.0
+560,Botswana,15-24_male,207611.0
+561,Brazil,15-24_male,17254084.0
+562,British Virgin Islands,15-24_male,2223.0
+563,Brunei,15-24_male,37707.0
+564,Bulgaria,15-24_male,346588.0
+565,Burkina Faso,15-24_male,1980755.0
+566,Burma,15-24_male,4900092.0
+567,Burundi,15-24_male,1135145.0
+568,Cabo Verde,15-24_male,55811.0
+569,Cambodia,15-24_male,1452795.0
+570,Cameroon,15-24_male,2524031.0
+571,Canada,15-24_male,2145626.0
+572,Cayman Islands,15-24_male,3609.0
+573,Central African Republic,15-24_male,574969.0
+574,Chad,15-24_male,1532687.0
+575,Chile,15-24_male,1337663.0
+576,China,15-24_male,91443139.0
+577,Christmas Island,15-24_male,202.0
+578,Colombia,15-24_male,4161661.0
+579,Comoros,15-24_male,79133.0
+580,"Congo, Democratic Republic of the",15-24_male,9184871.0
+581,"Congo, Republic of the",15-24_male,431279.0
+582,Cook Islands,15-24_male,774.0
+583,Costa Rica,15-24_male,405515.0
+584,Cote d'Ivoire,15-24_male,2613772.0
+585,Croatia,15-24_male,242605.0
+586,Cuba,15-24_male,698220.0
+587,Curacao,15-24_male,10957.0
+588,Cyprus,15-24_male,89265.0
+589,Czechia,15-24_male,514728.0
+590,Denmark,15-24_male,377094.0
+591,Djibouti,15-24_male,87520.0
+592,Dominica,15-24_male,5473.0
+593,Dominican Republic,15-24_male,969467.0
+594,Ecuador,15-24_male,1526300.0
+595,Egypt,15-24_male,9551309.0
+596,El Salvador,15-24_male,619550.0
+597,Equatorial Guinea,15-24_male,80368.0
+598,Eritrea,15-24_male,592365.0
+599,Estonia,15-24_male,56755.0
+600,Eswatini,15-24_male,99192.0
+601,Ethiopia,15-24_male,10857968.0
+602,European Union,15-24_male,28085190.0
+603,Faroe Islands,15-24_male,3714.0
+604,Fiji,15-24_male,75165.0
+605,Finland,15-24_male,317500.0
+606,France,15-24_male,4065780.0
+607,French Polynesia,15-24_male,23232.0
+608,Gabon,15-24_male,245490.0
+609,"Gambia, The",15-24_male,210217.0
+610,Gaza Strip,15-24_male,197797.0
+611,Georgia,15-24_male,299362.0
+612,Germany,15-24_male,4092901.0
+613,Ghana,15-24_male,2600390.0
+614,Gibraltar,15-24_male,2110.0
+615,Greece,15-24_male,531957.0
+616,Greenland,15-24_male,4388.0
+617,Grenada,15-24_male,8196.0
+618,Guam,15-24_male,14692.0
+619,Guatemala,15-24_male,1688900.0
+620,Guernsey,15-24_male,3711.0
+621,Guinea,15-24_male,1145488.0
+622,Guinea-Bissau,15-24_male,181286.0
+623,Guyana,15-24_male,81676.0
+624,Haiti,15-24_male,1139188.0
+625,Honduras,15-24_male,977899.0
+626,Hong Kong,15-24_male,372991.0
+627,Hungary,15-24_male,546437.0
+628,Iceland,15-24_male,22952.0
+629,India,15-24_male,122573662.0
+630,Indonesia,15-24_male,22661264.0
+631,Iran,15-24_male,5973320.0
+632,Iraq,15-24_male,3976085.0
+633,Ireland,15-24_male,306052.0
+634,Isle of Man,15-24_male,5354.0
+635,Israel,15-24_male,670121.0
+636,Italy,15-24_male,2994651.0
+637,Jamaica,15-24_male,261012.0
+638,Japan,15-24_male,6397995.0
+639,Jersey,15-24_male,7004.0
+640,Jordan,15-24_male,1114783.0
+641,Kazakhstan,15-24_male,1295882.0
+642,Kenya,15-24_male,4737647.0
+643,Kiribati,15-24_male,11213.0
+644,"Korea, North",15-24_male,1959440.0
+645,"Korea, South",15-24_male,3295814.0
+646,Kosovo,15-24_male,170448.0
+647,Kuwait,15-24_male,240638.0
+648,Kyrgyzstan,15-24_male,483799.0
+649,Laos,15-24_male,754198.0
+650,Latvia,15-24_male,90980.0
+651,Lebanon,15-24_male,500592.0
+652,Lesotho,15-24_male,181332.0
+653,Liberia,15-24_male,478041.0
+654,Libya,15-24_male,582247.0
+655,Liechtenstein,15-24_male,2256.0
+656,Lithuania,15-24_male,154708.0
+657,Luxembourg,15-24_male,37391.0
+658,Macau,15-24_male,35874.0
+659,Macedonia,15-24_male,147292.0
+660,Madagascar,15-24_male,2608996.0
+661,Malawi,15-24_male,2023182.0
+662,Malaysia,15-24_male,2704318.0
+663,Maldives,15-24_male,42849.0
+664,Mali,15-24_male,1657609.0
+665,Malta,15-24_male,25713.0
+666,Marshall Islands,15-24_male,7117.0
+667,Mauritania,15-24_male,372070.0
+668,Mauritius,15-24_male,100281.0
+669,Mexico,15-24_male,11072817.0
+670,"Micronesia, Federated States of",15-24_male,10068.0
+671,Moldova,15-24_male,210988.0
+672,Monaco,15-24_male,1498.0
+673,Mongolia,15-24_male,246198.0
+674,Montenegro,15-24_male,41406.0
+675,Montserrat,15-24_male,588.0
+676,Morocco,15-24_male,2873939.0
+677,Mozambique,15-24_male,2905254.0
+678,Namibia,15-24_male,257190.0
+679,Nauru,15-24_male,764.0
+680,Nepal,15-24_male,3250614.0
+681,Netherlands,15-24_male,1052357.0
+682,New Caledonia,15-24_male,23355.0
+683,New Zealand,15-24_male,307574.0
+684,Nicaragua,15-24_male,632847.0
+685,Niger,15-24_male,1899879.0
+686,Nigeria,15-24_male,20452045.0
+687,Northern Mariana Islands,15-24_male,4365.0
+688,Norway,15-24_male,340672.0
+689,Oman,15-24_male,334784.0
+690,Pakistan,15-24_male,22446320.0
+691,Palau,15-24_male,1768.0
+692,Panama,15-24_male,326207.0
+693,Papua New Guinea,15-24_male,710166.0
+694,Paraguay,15-24_male,664086.0
+695,Peru,15-24_male,2820562.0
+696,Philippines,15-24_male,10360704.0
+697,Poland,15-24_male,2040043.0
+698,Portugal,15-24_male,580709.0
+699,Puerto Rico,15-24_male,224434.0
+700,Qatar,15-24_male,205242.0
+701,Romania,15-24_male,1151312.0
+702,Russia,15-24_male,6840759.0
+703,Rwanda,15-24_male,1187249.0
+704,Saint Barthelemy,15-24_male,272.0
+705,"Saint Helena, Ascension, and Tristan da Cunha",15-24_male,487.0
+706,Saint Kitts and Nevis,15-24_male,3645.0
+707,Saint Lucia,15-24_male,12419.0
+708,Saint Martin,15-24_male,1638.0
+709,Saint Pierre and Miquelon,15-24_male,255.0
+710,Saint Vincent and the Grenadines,15-24_male,8003.0
+711,Samoa,15-24_male,20413.0
+712,San Marino,15-24_male,2046.0
+713,Sao Tome and Principe,15-24_male,21767.0
+714,Saudi Arabia,15-24_male,2707229.0
+715,Senegal,15-24_male,1521868.0
+716,Serbia,15-24_male,408379.0
+717,Seychelles,15-24_male,6461.0
+718,Sierra Leone,15-24_male,572274.0
+719,Singapore,15-24_male,473012.0
+720,Sint Maarten,15-24_male,3049.0
+721,Slovakia,15-24_male,293573.0
+722,Slovenia,15-24_male,98856.0
+723,Solomon Islands,15-24_male,67794.0
+724,Somalia,15-24_male,1097358.0
+725,South Africa,15-24_male,4711480.0
+726,South Sudan,15-24_male,1113008.0
+727,Spain,15-24_male,2458486.0
+728,Sri Lanka,15-24_male,1677547.0
+729,Sudan,15-24_male,4459335.0
+730,Suriname,15-24_male,52876.0
+731,Sweden,15-24_male,573595.0
+732,Switzerland,15-24_male,453003.0
+733,Syria,15-24_male,1933185.0
+734,Taiwan,15-24_male,1509023.0
+735,Tajikistan,15-24_male,801172.0
+736,Tanzania,15-24_male,5561922.0
+737,Thailand,15-24_male,4840303.0
+738,Timor-Leste,15-24_male,137363.0
+739,Togo,15-24_male,779774.0
+740,Tonga,15-24_male,10725.0
+741,Trinidad and Tobago,15-24_male,73171.0
+742,Tunisia,15-24_male,787178.0
+743,Turkey,15-24_male,6589039.0
+744,Turkmenistan,15-24_male,482094.0
+745,Turks and Caicos Islands,15-24_male,3657.0
+746,Tuvalu,15-24_male,1078.0
+747,Uganda,15-24_male,4250222.0
+748,Ukraine,15-24_male,2156338.0
+749,United Arab Emirates,15-24_male,408376.0
+750,United Kingdom,15-24_male,3895850.0
+751,United States,15-24_male,22119340.0
+752,Uruguay,15-24_male,265486.0
+753,Uzbekistan,15-24_male,2735083.0
+754,Vanuatu,15-24_male,28631.0
+755,Venezuela,15-24_male,2709250.0
+756,Vietnam,15-24_male,7967981.0
+757,Virgin Islands,15-24_male,5665.0
+758,Wallis and Futuna,15-24_male,1336.0
+759,West Bank,15-24_male,302474.0
+760,Western Sahara,15-24_male,60793.0
+761,World,15-24_male,611311930.0
+762,Yemen,15-24_male,3089817.0
+763,Zambia,15-24_male,1643364.0
+764,Zimbabwe,15-24_male,1403715.0
+765,Akrotiri,15-24_male,
+766,Antarctica,15-24_male,
+767,Arctic Ocean,15-24_male,
+768,Ashmore and Cartier Islands,15-24_male,
+769,Atlantic Ocean,15-24_male,
+770,Bouvet Island,15-24_male,
+771,British Indian Ocean Territory,15-24_male,
+772,Clipperton Island,15-24_male,
+773,Cocos (Keeling) Islands,15-24_male,
+774,Coral Sea Islands,15-24_male,
+775,Dhekelia,15-24_male,
+776,Falkland Islands (Islas Malvinas),15-24_male,
+777,French Southern and Antarctic Lands,15-24_male,
+778,Heard Island and McDonald Islands,15-24_male,
+779,Holy See (Vatican City),15-24_male,
+780,Howland Island,15-24_male,
+781,Indian Ocean,15-24_male,
+782,Jan Mayen,15-24_male,
+783,Jarvis Island,15-24_male,
+784,Johnston Atoll,15-24_male,
+785,Kingman Reef,15-24_male,
+786,Midway Islands,15-24_male,
+787,Navassa Island,15-24_male,
+788,Niue,15-24_male,
+789,Norfolk Island,15-24_male,
+790,Pacific Ocean,15-24_male,
+791,Palmyra Atoll,15-24_male,
+792,Paracel Islands,15-24_male,
+793,Pitcairn Islands,15-24_male,
+794,South Georgia and South Sandwich Islands,15-24_male,
+795,Southern Ocean,15-24_male,
+796,Spratly Islands,15-24_male,
+797,Svalbard,15-24_male,
+798,Tokelau,15-24_male,
+799,United States Pacific Island Wildlife Refuges,15-24_male,
+800,Wake Island,15-24_male,
+801,Afghanistan,15-24_female,3749760.0
+802,Albania,15-24_female,247230.0
+803,Algeria,15-24_female,2994056.0
+804,American Samoa,15-24_female,4669.0
+805,Andorra,15-24_female,4035.0
+806,Angola,15-24_female,2863950.0
+807,Anguilla,15-24_female,1219.0
+808,Antigua and Barbuda,15-24_female,7997.0
+809,Argentina,15-24_female,3317151.0
+810,Armenia,15-24_female,179970.0
+811,Aruba,15-24_female,7253.0
+812,Australia,15-24_female,1442461.0
+813,Austria,15-24_female,467064.0
+814,Azerbaijan,15-24_female,666550.0
+815,"Bahamas, The",15-24_female,26281.0
+816,Bahrain,15-24_female,96834.0
+817,Bangladesh,15-24_female,15200861.0
+818,Barbados,15-24_female,18479.0
+819,Belarus,15-24_female,460673.0
+820,Belgium,15-24_female,636452.0
+821,Belize,15-24_female,35127.0
+822,Benin,15-24_female,1143605.0
+823,Bermuda,15-24_female,4197.0
+824,Bhutan,15-24_female,69205.0
+825,Bolivia,15-24_female,1080662.0
+826,Bosnia and Herzegovina,15-24_female,209829.0
+827,Botswana,15-24_female,212874.0
+828,Brazil,15-24_female,16758140.0
+829,British Virgin Islands,15-24_female,2425.0
+830,Brunei,15-24_female,37985.0
+831,Bulgaria,15-24_female,318645.0
+832,Burkina Faso,15-24_female,2004763.0
+833,Burma,15-24_female,4837726.0
+834,Burundi,15-24_female,1139717.0
+835,Cabo Verde,15-24_female,55798.0
+836,Cambodia,15-24_female,1482065.0
+837,Cameroon,15-24_female,2502072.0
+838,Canada,15-24_female,2023369.0
+839,Cayman Islands,15-24_female,3662.0
+840,Central African Republic,15-24_female,568942.0
+841,Chad,15-24_female,1518940.0
+842,Chile,15-24_female,1285514.0
+843,China,15-24_female,79181726.0
+844,Christmas Island,15-24_female,67.0
+845,Colombia,15-24_female,4006875.0
+846,Comoros,15-24_female,84181.0
+847,"Congo, Democratic Republic of the",15-24_female,9117462.0
+848,"Congo, Republic of the",15-24_female,428999.0
+849,Cook Islands,15-24_female,671.0
+850,Costa Rica,15-24_female,389433.0
+851,Cote d'Ivoire,15-24_female,2615680.0
+852,Croatia,15-24_female,230853.0
+853,Cuba,15-24_female,646684.0
+854,Curacao,15-24_female,10158.0
+855,Cyprus,15-24_female,74607.0
+856,Czechia,15-24_female,483546.0
+857,Denmark,15-24_female,358807.0
+858,Djibouti,15-24_female,98239.0
+859,Dominica,15-24_female,5167.0
+860,Dominican Republic,15-24_female,937765.0
+861,Ecuador,15-24_female,1474626.0
+862,Egypt,15-24_female,8988006.0
+863,El Salvador,15-24_female,610725.0
+864,Equatorial Guinea,15-24_female,77515.0
+865,Eritrea,15-24_female,598305.0
+866,Estonia,15-24_female,52711.0
+867,Eswatini,15-24_female,110770.0
+868,Ethiopia,15-24_female,11011100.0
+869,European Union,15-24_female,26851677.0
+870,Faroe Islands,15-24_female,3515.0
+871,Fiji,15-24_female,72219.0
+872,Finland,15-24_female,303326.0
+873,France,15-24_female,3884488.0
+874,French Polynesia,15-24_female,21405.0
+875,Gabon,15-24_female,222343.0
+876,"Gambia, The",15-24_female,214807.0
+877,Gaza Strip,15-24_female,194112.0
+878,Georgia,15-24_female,264456.0
+879,Germany,15-24_female,3933997.0
+880,Ghana,15-24_female,2629660.0
+881,Gibraltar,15-24_female,1944.0
+882,Greece,15-24_female,509671.0
+883,Greenland,15-24_female,4321.0
+884,Grenada,15-24_female,8201.0
+885,Guam,15-24_female,12816.0
+886,Guatemala,15-24_female,1665631.0
+887,Guernsey,15-24_female,3553.0
+888,Guinea,15-24_female,1134103.0
+889,Guinea-Bissau,15-24_female,189515.0
+890,Guyana,15-24_female,77942.0
+891,Haiti,15-24_female,1137754.0
+892,Honduras,15-24_female,939490.0
+893,Hong Kong,15-24_female,340221.0
+894,Hungary,15-24_female,511214.0
+895,Iceland,15-24_female,22444.0
+896,India,15-24_female,108109968.0
+897,Indonesia,15-24_female,21852006.0
+898,Iran,15-24_female,5689501.0
+899,Iraq,15-24_female,3829086.0
+900,Ireland,15-24_female,297890.0
+901,Isle of Man,15-24_female,4750.0
+902,Israel,15-24_female,642155.0
+903,Italy,15-24_female,2984172.0
+904,Jamaica,15-24_female,255223.0
+905,Japan,15-24_female,5746140.0
+906,Jersey,15-24_female,6572.0
+907,Jordan,15-24_female,975086.0
+908,Kazakhstan,15-24_female,1244540.0
+909,Kenya,15-24_female,4752896.0
+910,Kiribati,15-24_female,11466.0
+911,"Korea, North",15-24_female,1935607.0
+912,"Korea, South",15-24_female,2970439.0
+913,Kosovo,15-24_female,156199.0
+914,Kuwait,15-24_female,197946.0
+915,Kyrgyzstan,15-24_female,468653.0
+916,Laos,15-24_female,764673.0
+917,Latvia,15-24_female,85302.0
+918,Lebanon,15-24_female,477784.0
+919,Lesotho,15-24_female,198236.0
+920,Liberia,15-24_female,478999.0
+921,Libya,15-24_female,553004.0
+922,Liechtenstein,15-24_female,2190.0
+923,Lithuania,15-24_female,144244.0
+924,Luxembourg,15-24_female,35650.0
+925,Macau,15-24_female,32146.0
+926,Macedonia,15-24_female,136851.0
+927,Madagascar,15-24_female,2587745.0
+928,Malawi,15-24_female,2059765.0
+929,Malaysia,15-24_female,2621444.0
+930,Maldives,15-24_female,32326.0
+931,Mali,15-24_female,1823453.0
+932,Malta,15-24_female,23815.0
+933,Marshall Islands,15-24_female,6875.0
+934,Mauritania,15-24_female,387375.0
+935,Mauritius,15-24_female,97836.0
+936,Mexico,15-24_female,10779029.0
+937,"Micronesia, Federated States of",15-24_female,10020.0
+938,Moldova,15-24_female,196063.0
+939,Monaco,15-24_female,1387.0
+940,Mongolia,15-24_female,240040.0
+941,Montenegro,15-24_female,38755.0
+942,Montserrat,15-24_female,549.0
+943,Morocco,15-24_female,2902206.0
+944,Mozambique,15-24_female,2977732.0
+945,Namibia,15-24_female,257984.0
+946,Nauru,15-24_female,823.0
+947,Nepal,15-24_female,3145807.0
+948,Netherlands,15-24_female,1011710.0
+949,New Caledonia,15-24_female,22349.0
+950,New Zealand,15-24_female,290771.0
+951,Nicaragua,15-24_female,624811.0
+952,Niger,15-24_female,1945806.0
+953,Nigeria,15-24_female,19861371.0
+954,Northern Mariana Islands,15-24_female,3804.0
+955,Norway,15-24_female,324088.0
+956,Oman,15-24_female,303172.0
+957,Pakistan,15-24_female,21076265.0
+958,Palau,15-24_female,1760.0
+959,Panama,15-24_female,313894.0
+960,Papua New Guinea,15-24_female,690848.0
+961,Paraguay,15-24_female,656947.0
+962,Peru,15-24_female,2806280.0
+963,Philippines,15-24_female,9934798.0
+964,Poland,15-24_female,1932009.0
+965,Portugal,15-24_female,546908.0
+966,Puerto Rico,15-24_female,216664.0
+967,Qatar,15-24_female,81297.0
+968,Romania,15-24_female,1091956.0
+969,Russia,15-24_female,6530991.0
+970,Rwanda,15-24_female,1183278.0
+971,Saint Barthelemy,15-24_female,248.0
+972,"Saint Helena, Ascension, and Tristan da Cunha",15-24_female,470.0
+973,Saint Kitts and Nevis,15-24_female,3936.0
+974,Saint Lucia,15-24_female,12060.0
+975,Saint Martin,15-24_female,1685.0
+976,Saint Pierre and Miquelon,15-24_female,237.0
+977,Saint Vincent and the Grenadines,15-24_female,7865.0
+978,Samoa,15-24_female,19357.0
+979,San Marino,15-24_female,1869.0
+980,Sao Tome and Principe,15-24_female,21188.0
+981,Saudi Arabia,15-24_female,2447519.0
+982,Senegal,15-24_female,1531484.0
+983,Serbia,15-24_female,383385.0
+984,Seychelles,15-24_female,5806.0
+985,Sierra Leone,15-24_female,602105.0
+986,Singapore,15-24_female,489553.0
+987,Sint Maarten,15-24_female,3009.0
+988,Slovakia,15-24_female,277041.0
+989,Slovenia,15-24_female,92407.0
+990,Solomon Islands,15-24_female,63925.0
+991,Somalia,15-24_female,1081762.0
+992,South Africa,15-24_female,4837897.0
+993,South Sudan,15-24_female,1023954.0
+994,Spain,15-24_female,2299523.0
+995,Sri Lanka,15-24_female,1618922.0
+996,Sudan,15-24_female,4259341.0
+997,Suriname,15-24_female,50913.0
+998,Sweden,15-24_female,537358.0
+999,Switzerland,15-24_female,433101.0
+1000,Syria,15-24_female,1863991.0
+1001,Taiwan,15-24_female,1438278.0
+1002,Tajikistan,15-24_female,777524.0
+1003,Tanzania,15-24_female,5543788.0
+1004,Thailand,15-24_female,4649589.0
+1005,Timor-Leste,15-24_female,133128.0
+1006,Togo,15-24_female,782192.0
+1007,Tonga,15-24_female,10223.0
+1008,Trinidad and Tobago,15-24_female,67164.0
+1009,Tunisia,15-24_female,770929.0
+1010,Turkey,15-24_female,6311113.0
+1011,Turkmenistan,15-24_female,476080.0
+1012,Turks and Caicos Islands,15-24_female,3698.0
+1013,Tuvalu,15-24_female,999.0
+1014,Uganda,15-24_female,4347313.0
+1015,Ukraine,15-24_female,2047821.0
+1016,United Arab Emirates,15-24_female,332986.0
+1017,United Kingdom,15-24_female,3726311.0
+1018,United States,15-24_female,21082599.0
+1019,Uruguay,15-24_female,258611.0
+1020,Uzbekistan,15-24_female,2623511.0
+1021,Vanuatu,15-24_female,29053.0
+1022,Venezuela,15-24_female,2621681.0
+1023,Vietnam,15-24_female,7371016.0
+1024,Virgin Islands,15-24_female,5965.0
+1025,Wallis and Futuna,15-24_female,1165.0
+1026,West Bank,15-24_female,289852.0
+1027,Western Sahara,15-24_female,59948.0
+1028,World,15-24_female,572229547.0
+1029,Yemen,15-24_female,3005693.0
+1030,Zambia,15-24_female,1645713.0
+1031,Zimbabwe,15-24_female,1461168.0
+1032,Akrotiri,15-24_female,
+1033,Antarctica,15-24_female,
+1034,Arctic Ocean,15-24_female,
+1035,Ashmore and Cartier Islands,15-24_female,
+1036,Atlantic Ocean,15-24_female,
+1037,Bouvet Island,15-24_female,
+1038,British Indian Ocean Territory,15-24_female,
+1039,Clipperton Island,15-24_female,
+1040,Cocos (Keeling) Islands,15-24_female,
+1041,Coral Sea Islands,15-24_female,
+1042,Dhekelia,15-24_female,
+1043,Falkland Islands (Islas Malvinas),15-24_female,
+1044,French Southern and Antarctic Lands,15-24_female,
+1045,Heard Island and McDonald Islands,15-24_female,
+1046,Holy See (Vatican City),15-24_female,
+1047,Howland Island,15-24_female,
+1048,Indian Ocean,15-24_female,
+1049,Jan Mayen,15-24_female,
+1050,Jarvis Island,15-24_female,
+1051,Johnston Atoll,15-24_female,
+1052,Kingman Reef,15-24_female,
+1053,Midway Islands,15-24_female,
+1054,Navassa Island,15-24_female,
+1055,Niue,15-24_female,
+1056,Norfolk Island,15-24_female,
+1057,Pacific Ocean,15-24_female,
+1058,Palmyra Atoll,15-24_female,
+1059,Paracel Islands,15-24_female,
+1060,Pitcairn Islands,15-24_female,
+1061,South Georgia and South Sandwich Islands,15-24_female,
+1062,Southern Ocean,15-24_female,
+1063,Spratly Islands,15-24_female,
+1064,Svalbard,15-24_female,
+1065,Tokelau,15-24_female,
+1066,United States Pacific Island Wildlife Refuges,15-24_female,
+1067,Wake Island,15-24_female,
+1068,Afghanistan,25-54_male,5456305.0
+1069,Albania,25-54_male,604250.0
+1070,Algeria,25-54_male,9067597.0
+1071,American Samoa,25-54_male,9255.0
+1072,Andorra,25-54_male,19813.0
+1073,Angola,25-54_male,4044944.0
+1074,Anguilla,25-54_male,3386.0
+1075,Antigua and Barbuda,25-54_male,18438.0
+1076,Argentina,25-54_male,8808591.0
+1077,Armenia,25-54_male,640089.0
+1078,Aruba,25-54_male,23187.0
+1079,Australia,25-54_male,4944587.0
+1080,Austria,25-54_male,1851209.0
+1081,Azerbaijan,25-54_male,2247545.0
+1082,"Bahamas, The",25-54_male,73627.0
+1083,Bahrain,25-54_male,527417.0
+1084,Bangladesh,25-54_male,30626005.0
+1085,Barbados,25-54_male,63829.0
+1086,Belarus,25-54_male,2089202.0
+1087,Belgium,25-54_male,2323488.0
+1088,Belize,25-54_male,70222.0
+1089,Benin,25-54_male,1759834.0
+1090,Bermuda,25-54_male,13049.0
+1091,Bhutan,25-54_male,177436.0
+1092,Bolivia,25-54_male,2098847.0
+1093,Bosnia and Herzegovina,25-54_male,881331.0
+1094,Botswana,25-54_male,412475.0
+1095,Brazil,25-54_male,45449158.0
+1096,British Virgin Islands,25-54_male,8230.0
+1097,Brunei,25-54_male,100740.0
+1098,Bulgaria,25-54_male,1565770.0
+1099,Burkina Faso,25-54_male,2639235.0
+1100,Burma,25-54_male,11577883.0
+1101,Burundi,25-54_male,1694547.0
+1102,Cabo Verde,25-54_male,110646.0
+1103,Cambodia,25-54_male,3312036.0
+1104,Cameroon,25-54_male,4001963.0
+1105,Canada,25-54_male,7215261.0
+1106,Cayman Islands,25-54_male,12256.0
+1107,Central African Republic,25-54_male,938365.0
+1108,Chad,25-54_male,2044795.0
+1109,Chile,25-54_male,3851775.0
+1110,China,25-54_male,338189015.0
+1111,Christmas Island,25-54_male,955.0
+1112,Colombia,25-54_male,10043080.0
+1113,Comoros,25-54_male,129645.0
+1114,"Congo, Democratic Republic of the",25-54_male,13176714.0
+1115,"Congo, Republic of the",25-54_male,857596.0
+1116,Cook Islands,25-54_male,1710.0
+1117,Costa Rica,25-54_male,1105944.0
+1118,Cote d'Ivoire,25-54_male,4577394.0
+1119,Croatia,25-54_male,858025.0
+1120,Cuba,25-54_male,2443190.0
+1121,Curacao,25-54_male,27278.0
+1122,Cyprus,25-54_male,308190.0
+1123,Czechia,25-54_male,2404724.0
+1124,Denmark,25-54_male,1147196.0
+1125,Djibouti,25-54_male,145427.0
+1126,Dominica,25-54_male,15985.0
+1127,Dominican Republic,25-54_male,2112813.0
+1128,Ecuador,25-54_male,3207692.0
+1129,Egypt,25-54_male,19053300.0
+1130,El Salvador,25-54_male,1143226.0
+1131,Equatorial Guinea,25-54_male,129248.0
+1132,Eritrea,25-54_male,965405.0
+1133,Estonia,25-54_male,258727.0
+1134,Eswatini,25-54_male,193145.0
+1135,Ethiopia,25-54_male,15978384.0
+1136,European Union,25-54_male,107404085.0
+1137,Faroe Islands,25-54_male,10280.0
+1138,Fiji,25-54_male,194743.0
+1139,Finland,25-54_male,1064751.0
+1140,France,25-54_male,12731825.0
+1141,French Polynesia,25-54_male,66074.0
+1142,Gabon,25-54_male,355348.0
+1143,"Gambia, The",25-54_male,357934.0
+1144,Gaza Strip,25-54_male,256103.0
+1145,Georgia,25-54_male,984275.0
+1146,Germany,25-54_male,16181931.0
+1147,Ghana,25-54_male,4663234.0
+1148,Gibraltar,25-54_male,6094.0
+1149,Greece,25-54_male,2259672.0
+1150,Greenland,25-54_male,12349.0
+1151,Grenada,25-54_male,23121.0
+1152,Guam,25-54_male,32170.0
+1153,Guatemala,25-54_male,2878075.0
+1154,Guernsey,25-54_male,13958.0
+1155,Guinea,25-54_male,1827246.0
+1156,Guinea-Bissau,25-54_male,259762.0
+1157,Guyana,25-54_male,149199.0
+1158,Haiti,25-54_male,1997816.0
+1159,Honduras,25-54_male,1724257.0
+1160,Hong Kong,25-54_male,1354676.0
+1161,Hungary,25-54_male,2077449.0
+1162,Iceland,25-54_male,69177.0
+1163,India,25-54_male,276283581.0
+1164,Indonesia,25-54_male,57097131.0
+1165,Iran,25-54_male,20698748.0
+1166,Iraq,25-54_male,6900984.0
+1167,Ireland,25-54_male,1091495.0
+1168,Isle of Man,25-54_male,17191.0
+1169,Israel,25-54_male,1601516.0
+1170,Italy,25-54_male,12845442.0
+1171,Jamaica,25-54_male,518984.0
+1172,Japan,25-54_male,23246562.0
+1173,Jersey,25-54_male,20392.0
+1174,Jordan,25-54_male,2137424.0
+1175,Kazakhstan,25-54_male,3884454.0
+1176,Kenya,25-54_male,8393673.0
+1177,Kiribati,25-54_male,20756.0
+1178,"Korea, North",25-54_male,5627175.0
+1179,"Korea, South",25-54_male,11986760.0
+1180,Kosovo,25-54_male,428030.0
+1181,Kuwait,25-54_male,961205.0
+1182,Kyrgyzstan,25-54_male,1146221.0
+1183,Laos,25-54_male,1332231.0
+1184,Latvia,25-54_male,396677.0
+1185,Lebanon,25-54_male,1398087.0
+1186,Lesotho,25-54_male,366652.0
+1187,Liberia,25-54_male,711963.0
+1188,Libya,25-54_male,1684019.0
+1189,Liechtenstein,25-54_male,7923.0
+1190,Lithuania,25-54_male,548586.0
+1191,Luxembourg,25-54_male,137381.0
+1192,Macau,25-54_male,134301.0
+1193,Macedonia,25-54_male,478851.0
+1194,Madagascar,25-54_male,4160278.0
+1195,Malawi,25-54_male,2717613.0
+1196,Malaysia,25-54_male,6587529.0
+1197,Maldives,25-54_male,106083.0
+1198,Mali,25-54_male,2243158.0
+1199,Malta,25-54_male,95162.0
+1200,Marshall Islands,25-54_male,14318.0
+1201,Mauritania,25-54_male,595472.0
+1202,Mauritius,25-54_male,297558.0
+1203,Mexico,25-54_male,24916204.0
+1204,"Micronesia, Federated States of",25-54_male,19799.0
+1205,Moldova,25-54_male,752758.0
+1206,Monaco,25-54_male,4964.0
+1207,Mongolia,25-54_male,683475.0
+1208,Montenegro,25-54_male,122940.0
+1209,Montserrat,25-54_male,1224.0
+1210,Morocco,25-54_male,7039912.0
+1211,Mozambique,25-54_male,3525755.0
+1212,Namibia,25-54_male,421849.0
+1213,Nauru,25-54_male,2112.0
+1214,Nepal,25-54_male,4987071.0
+1215,Netherlands,25-54_male,3371698.0
+1216,New Caledonia,25-54_male,62227.0
+1217,New Zealand,25-54_male,902909.0
+1218,Nicaragua,25-54_male,1186467.0
+1219,Niger,25-54_male,2581597.0
+1220,Nigeria,25-54_male,31031253.0
+1221,Northern Mariana Islands,25-54_male,10545.0
+1222,Norway,25-54_male,1136373.0
+1223,Oman,25-54_male,886080.0
+1224,Pakistan,25-54_male,41021803.0
+1225,Palau,25-54_male,6016.0
+1226,Panama,25-54_male,776395.0
+1227,Papua New Guinea,25-54_male,1338558.0
+1228,Paraguay,25-54_male,1461657.0
+1229,Peru,25-54_male,6081748.0
+1230,Philippines,25-54_male,19987460.0
+1231,Poland,25-54_male,8431045.0
+1232,Portugal,25-54_male,2143735.0
+1233,Puerto Rico,25-54_male,595818.0
+1234,Qatar,25-54_male,1391192.0
+1235,Romania,25-54_male,5010272.0
+1236,Russia,25-54_male,30868831.0
+1237,Rwanda,25-54_male,1903087.0
+1238,Saint Barthelemy,25-54_male,1682.0
+1239,"Saint Helena, Ascension, and Tristan da Cunha",25-54_male,1695.0
+1240,Saint Kitts and Nevis,25-54_male,12059.0
+1241,Saint Lucia,25-54_male,34228.0
+1242,Saint Martin,25-54_male,7181.0
+1243,Saint Pierre and Miquelon,25-54_male,1109.0
+1244,Saint Vincent and the Grenadines,25-54_male,22567.0
+1245,Samoa,25-54_male,37944.0
+1246,San Marino,25-54_male,6391.0
+1247,Sao Tome and Principe,25-54_male,31218.0
+1248,Saudi Arabia,25-54_male,9951080.0
+1249,Senegal,25-54_male,2176052.0
+1250,Serbia,25-54_male,1475243.0
+1251,Seychelles,25-54_male,24841.0
+1252,Sierra Leone,25-54_male,973698.0
+1253,Singapore,25-54_male,1476528.0
+1254,Sint Maarten,25-54_male,8539.0
+1255,Slovakia,25-54_male,1239670.0
+1256,Slovenia,25-54_male,458826.0
+1257,Solomon Islands,25-54_male,123930.0
+1258,Somalia,25-54_male,1821823.0
+1259,South Africa,25-54_male,11782848.0
+1260,South Sudan,25-54_male,1579519.0
+1261,Spain,25-54_male,11208598.0
+1262,Sri Lanka,25-54_male,4596388.0
+1263,Sudan,25-54_male,6236954.0
+1264,Suriname,25-54_male,135282.0
+1265,Sweden,25-54_male,2005422.0
+1266,Switzerland,25-54_male,1781425.0
+1267,Syria,25-54_male,3807664.0
+1268,Taiwan,25-54_male,5412487.0
+1269,Tajikistan,25-54_male,1721081.0
+1270,Tanzania,25-54_male,8361460.0
+1271,Thailand,25-54_male,15670881.0
+1272,Timor-Leste,25-54_male,191290.0
+1273,Togo,25-54_male,1339150.0
+1274,Tonga,25-54_male,18436.0
+1275,Trinidad and Tobago,25-54_male,285376.0
+1276,Tunisia,25-54_male,2426011.0
+1277,Turkey,25-54_male,17798864.0
+1278,Turkmenistan,25-54_male,1169965.0
+1279,Turks and Caicos Islands,25-54_male,14316.0
+1280,Tuvalu,25-54_male,2080.0
+1281,Uganda,25-54_male,5422096.0
+1282,Ukraine,25-54_male,9522108.0
+1283,United Arab Emirates,25-54_male,5297201.0
+1284,United Kingdom,25-54_male,13387119.0
+1285,United States,25-54_male,64858646.0
+1286,Uruguay,25-54_male,658871.0
+1287,Uzbekistan,25-54_male,6714567.0
+1288,Vanuatu,25-54_male,49803.0
+1289,Venezuela,25-54_male,6393114.0
+1290,Vietnam,25-54_male,22378768.0
+1291,Virgin Islands,25-54_male,18454.0
+1292,Wallis and Futuna,25-54_male,3391.0
+1293,West Bank,25-54_male,489559.0
+1294,Western Sahara,25-54_male,105420.0
+1295,World,25-54_male,1522999.0
+1296,Yemen,25-54_male,4805059.0
+1297,Zambia,25-54_male,2384765.0
+1298,Zimbabwe,25-54_male,2286915.0
+1299,Akrotiri,25-54_male,
+1300,Antarctica,25-54_male,
+1301,Arctic Ocean,25-54_male,
+1302,Ashmore and Cartier Islands,25-54_male,
+1303,Atlantic Ocean,25-54_male,
+1304,Bouvet Island,25-54_male,
+1305,British Indian Ocean Territory,25-54_male,
+1306,Clipperton Island,25-54_male,
+1307,Cocos (Keeling) Islands,25-54_male,
+1308,Coral Sea Islands,25-54_male,
+1309,Dhekelia,25-54_male,
+1310,Falkland Islands (Islas Malvinas),25-54_male,
+1311,French Southern and Antarctic Lands,25-54_male,
+1312,Heard Island and McDonald Islands,25-54_male,
+1313,Holy See (Vatican City),25-54_male,
+1314,Howland Island,25-54_male,
+1315,Indian Ocean,25-54_male,
+1316,Jan Mayen,25-54_male,
+1317,Jarvis Island,25-54_male,
+1318,Johnston Atoll,25-54_male,
+1319,Kingman Reef,25-54_male,
+1320,Midway Islands,25-54_male,
+1321,Navassa Island,25-54_male,
+1322,Niue,25-54_male,
+1323,Norfolk Island,25-54_male,
+1324,Pacific Ocean,25-54_male,
+1325,Palmyra Atoll,25-54_male,
+1326,Paracel Islands,25-54_male,
+1327,Pitcairn Islands,25-54_male,
+1328,South Georgia and South Sandwich Islands,25-54_male,
+1329,Southern Ocean,25-54_male,
+1330,Spratly Islands,25-54_male,
+1331,Svalbard,25-54_male,
+1332,Tokelau,25-54_male,
+1333,United States Pacific Island Wildlife Refuges,25-54_male,
+1334,Wake Island,25-54_male,
+1335,Afghanistan,25-54_female,5263332.0
+1336,Albania,25-54_female,658773.0
+1337,Algeria,25-54_female,8833238.0
+1338,American Samoa,25-54_female,9442.0
+1339,Andorra,25-54_female,18990.0
+1340,Angola,25-54_female,4441028.0
+1341,Anguilla,25-54_female,4152.0
+1342,Antigua and Barbuda,25-54_female,21861.0
+1343,Argentina,25-54_female,8826379.0
+1344,Armenia,25-54_female,675643.0
+1345,Aruba,25-54_female,24946.0
+1346,Australia,25-54_female,4760752.0
+1347,Austria,25-54_female,1851100.0
+1348,Azerbaijan,25-54_female,2317630.0
+1349,"Bahamas, The",25-54_female,73068.0
+1350,Bahrain,25-54_female,281391.0
+1351,Bangladesh,25-54_female,33267339.0
+1352,Barbados,25-54_female,64249.0
+1353,Belarus,25-54_female,2149486.0
+1354,Belgium,25-54_female,2283533.0
+1355,Belize,25-54_female,74187.0
+1356,Benin,25-54_female,1717467.0
+1357,Bermuda,25-54_female,12972.0
+1358,Bhutan,25-54_female,157729.0
+1359,Bolivia,25-54_female,2185890.0
+1360,Bosnia and Herzegovina,25-54_female,870601.0
+1361,Botswana,25-54_female,462013.0
+1362,Brazil,25-54_female,46151759.0
+1363,British Virgin Islands,25-54_female,9330.0
+1364,Brunei,25-54_female,110596.0
+1365,Bulgaria,25-54_female,1477719.0
+1366,Burkina Faso,25-54_female,3051333.0
+1367,Burma,25-54_female,12068190.0
+1368,Burundi,25-54_female,1704369.0
+1369,Cabo Verde,25-54_female,116804.0
+1370,Cambodia,25-54_female,3446962.0
+1371,Cameroon,25-54_female,3954258.0
+1372,Canada,25-54_female,7002546.0
+1373,Cayman Islands,25-54_female,12855.0
+1374,Central African Republic,25-54_female,936948.0
+1375,Chad,25-54_female,2222751.0
+1376,Chile,25-54_female,3845195.0
+1377,China,25-54_female,324180103.0
+1378,Christmas Island,25-54_female,322.0
+1379,Colombia,25-54_female,10177042.0
+1380,Comoros,25-54_female,143408.0
+1381,"Congo, Democratic Republic of the",25-54_female,13225429.0
+1382,"Congo, Republic of the",25-54_female,851712.0
+1383,Cook Islands,25-54_female,1730.0
+1384,Costa Rica,25-54_female,1090434.0
+1385,Cote d'Ivoire,25-54_female,4416408.0
+1386,Croatia,25-54_female,856455.0
+1387,Cuba,25-54_female,2414119.0
+1388,Curacao,25-54_female,27802.0
+1389,Cyprus,25-54_female,274632.0
+1390,Czechia,25-54_female,2275309.0
+1391,Denmark,25-54_female,1119967.0
+1392,Djibouti,25-54_female,204927.0
+1393,Dominica,25-54_female,15541.0
+1394,Dominican Republic,25-54_female,2035902.0
+1395,Ecuador,25-54_female,3362464.0
+1396,Egypt,25-54_female,18431808.0
+1397,El Salvador,25-54_female,1319138.0
+1398,Equatorial Guinea,25-54_female,128664.0
+1399,Eritrea,25-54_female,997771.0
+1400,Estonia,25-54_female,252304.0
+1401,Eswatini,25-54_female,222405.0
+1402,Ethiopia,25-54_female,16247086.0
+1403,European Union,25-54_female,105480809.0
+1404,Faroe Islands,25-54_female,8718.0
+1405,Fiji,25-54_female,185469.0
+1406,Finland,25-54_female,1019748.0
+1407,France,25-54_female,12515501.0
+1408,French Polynesia,25-54_female,62854.0
+1409,Gabon,25-54_female,314344.0
+1410,"Gambia, The",25-54_female,372428.0
+1411,Gaza Strip,25-54_female,267285.0
+1412,Georgia,25-54_female,1029902.0
+1413,Germany,25-54_female,15896528.0
+1414,Ghana,25-54_female,4950888.0
+1415,Gibraltar,25-54_female,5794.0
+1416,Greece,25-54_female,2279464.0
+1417,Greenland,25-54_female,11209.0
+1418,Grenada,25-54_female,22067.0
+1419,Guam,25-54_female,30207.0
+1420,Guatemala,25-54_female,3002920.0
+1421,Guernsey,25-54_female,13658.0
+1422,Guinea,25-54_female,1824162.0
+1423,Guinea-Bissau,25-54_female,288300.0
+1424,Guyana,25-54_female,136129.0
+1425,Haiti,25-54_female,2028495.0
+1426,Honduras,25-54_female,1679694.0
+1427,Hong Kong,25-54_female,1816303.0
+1428,Hungary,25-54_female,2050330.0
+1429,Iceland,25-54_female,67401.0
+1430,India,25-54_female,258563835.0
+1431,Indonesia,25-54_female,54433239.0
+1432,Iran,25-54_female,19863223.0
+1433,Iraq,25-54_female,6752797.0
+1434,Ireland,25-54_female,1080594.0
+1435,Isle of Man,25-54_female,17217.0
+1436,Israel,25-54_female,1531849.0
+1437,Italy,25-54_female,13183240.0
+1438,Jamaica,25-54_female,550412.0
+1439,Japan,25-54_female,23784273.0
+1440,Jersey,25-54_female,20160.0
+1441,Jordan,25-54_female,1807573.0
+1442,Kazakhstan,25-54_female,4049072.0
+1443,Kenya,25-54_female,8193800.0
+1444,Kiribati,25-54_female,22363.0
+1445,"Korea, North",25-54_female,5583008.0
+1446,"Korea, South",25-54_female,11220268.0
+1447,Kosovo,25-54_female,383045.0
+1448,Kuwait,25-54_female,563979.0
+1449,Kyrgyzstan,25-54_female,1189763.0
+1450,Laos,25-54_female,1365715.0
+1451,Latvia,25-54_female,398972.0
+1452,Lebanon,25-54_female,1363386.0
+1453,Lesotho,25-54_female,384333.0
+1454,Liberia,25-54_female,735878.0
+1455,Libya,25-54_female,1522027.0
+1456,Liechtenstein,25-54_female,7951.0
+1457,Lithuania,25-54_female,561007.0
+1458,Luxembourg,25-54_female,130252.0
+1459,Macau,25-54_female,167359.0
+1460,Macedonia,25-54_female,465058.0
+1461,Madagascar,25-54_female,4166538.0
+1462,Malawi,25-54_female,2752983.0
+1463,Malaysia,25-54_female,6444430.0
+1464,Maldives,25-54_female,84160.0
+1465,Mali,25-54_female,2615695.0
+1466,Malta,25-54_female,88602.0
+1467,Marshall Islands,25-54_female,13800.0
+1468,Mauritania,25-54_female,688620.0
+1469,Mauritius,25-54_female,297243.0
+1470,Mexico,25-54_female,26612272.0
+1471,"Micronesia, Federated States of",25-54_female,21208.0
+1472,Moldova,25-54_female,735471.0
+1473,Monaco,25-54_female,4916.0
+1474,Mongolia,25-54_female,728149.0
+1475,Montenegro,25-54_female,123746.0
+1476,Montserrat,25-54_female,1305.0
+1477,Morocco,25-54_female,7513651.0
+1478,Mozambique,25-54_female,3995264.0
+1479,Namibia,25-54_female,458118.0
+1480,Nauru,25-54_female,2063.0
+1481,Nepal,25-54_female,6061616.0
+1482,Netherlands,25-54_female,3348595.0
+1483,New Caledonia,25-54_female,61215.0
+1484,New Zealand,25-54_female,896398.0
+1485,Nicaragua,25-54_female,1310957.0
+1486,Niger,25-54_female,2587913.0
+1487,Nigeria,25-54_female,30893168.0
+1488,Northern Mariana Islands,25-54_female,9805.0
+1489,Norway,25-54_female,1065138.0
+1490,Oman,25-54_female,656734.0
+1491,Pakistan,25-54_female,38039766.0
+1492,Palau,25-54_female,3826.0
+1493,Panama,25-54_female,757008.0
+1494,Papua New Guinea,25-54_female,1271008.0
+1495,Paraguay,25-54_female,1460565.0
+1496,Peru,25-54_female,6597405.0
+1497,Philippines,25-54_female,19312673.0
+1498,Poland,25-54_female,8260124.0
+1499,Portugal,25-54_female,2209736.0
+1500,Puerto Rico,25-54_female,655890.0
+1501,Qatar,25-54_female,279256.0
+1502,Romania,25-54_female,4883090.0
+1503,Russia,25-54_female,31960407.0
+1504,Rwanda,25-54_female,2109839.0
+1505,Saint Barthelemy,25-54_female,1406.0
+1506,"Saint Helena, Ascension, and Tristan da Cunha",25-54_female,1723.0
+1507,Saint Kitts and Nevis,25-54_female,11437.0
+1508,Saint Lucia,25-54_female,36818.0
+1509,Saint Martin,25-54_female,7836.0
+1510,Saint Pierre and Miquelon,25-54_female,1158.0
+1511,Saint Vincent and the Grenadines,25-54_female,20924.0
+1512,Samoa,25-54_female,35893.0
+1513,San Marino,25-54_female,7198.0
+1514,Sao Tome and Principe,25-54_female,32229.0
+1515,Saudi Arabia,25-54_female,6554525.0
+1516,Senegal,25-54_female,2547566.0
+1517,Serbia,25-54_female,1445935.0
+1518,Seychelles,25-54_female,21800.0
+1519,Sierra Leone,25-54_female,1060688.0
+1520,Singapore,25-54_female,1558179.0
+1521,Sint Maarten,25-54_female,8930.0
+1522,Slovakia,25-54_female,1212687.0
+1523,Slovenia,25-54_female,417875.0
+1524,Solomon Islands,25-54_female,119577.0
+1525,Somalia,25-54_female,1694873.0
+1526,South Africa,25-54_female,11503831.0
+1527,South Sudan,25-54_female,1528165.0
+1528,Spain,25-54_female,10762651.0
+1529,Sri Lanka,25-54_female,4762913.0
+1530,Sudan,25-54_female,6612593.0
+1531,Suriname,25-54_female,130327.0
+1532,Sweden,25-54_female,1947245.0
+1533,Switzerland,25-54_female,1774124.0
+1534,Syria,25-54_female,3829150.0
+1535,Taiwan,25-54_female,5437015.0
+1536,Tajikistan,25-54_female,1749819.0
+1537,Tanzania,25-54_female,8284229.0
+1538,Thailand,25-54_female,15972254.0
+1539,Timor-Leste,25-54_female,206973.0
+1540,Togo,25-54_female,1356020.0
+1541,Tonga,25-54_female,18469.0
+1542,Trinidad and Tobago,25-54_female,261517.0
+1543,Tunisia,25-54_female,2554253.0
+1544,Turkey,25-54_female,17349228.0
+1545,Turkmenistan,25-54_female,1185159.0
+1546,Turks and Caicos Islands,25-54_female,14128.0
+1547,Tuvalu,25-54_female,2034.0
+1548,Uganda,25-54_female,5412112.0
+1549,Ukraine,25-54_female,9831924.0
+1550,United Arab Emirates,25-54_female,1537300.0
+1551,United Kingdom,25-54_female,12843549.0
+1552,United States,25-54_female,64496889.0
+1553,Uruguay,25-54_female,671172.0
+1554,Uzbekistan,25-54_female,6781485.0
+1555,Vanuatu,25-54_female,52140.0
+1556,Venezuela,25-54_female,6487570.0
+1557,Vietnam,25-54_female,21939925.0
+1558,Virgin Islands,25-54_female,20987.0
+1559,Wallis and Futuna,25-54_female,3332.0
+1560,West Bank,25-54_female,475402.0
+1561,Western Sahara,25-54_female,108462.0
+1562,World,25-54_female,1488011.0
+1563,Yemen,25-54_female,4591811.0
+1564,Zambia,25-54_female,2349877.0
+1565,Zimbabwe,25-54_female,2234158.0
+1566,Akrotiri,25-54_female,
+1567,Antarctica,25-54_female,
+1568,Arctic Ocean,25-54_female,
+1569,Ashmore and Cartier Islands,25-54_female,
+1570,Atlantic Ocean,25-54_female,
+1571,Bouvet Island,25-54_female,
+1572,British Indian Ocean Territory,25-54_female,
+1573,Clipperton Island,25-54_female,
+1574,Cocos (Keeling) Islands,25-54_female,
+1575,Coral Sea Islands,25-54_female,
+1576,Dhekelia,25-54_female,
+1577,Falkland Islands (Islas Malvinas),25-54_female,
+1578,French Southern and Antarctic Lands,25-54_female,
+1579,Heard Island and McDonald Islands,25-54_female,
+1580,Holy See (Vatican City),25-54_female,
+1581,Howland Island,25-54_female,
+1582,Indian Ocean,25-54_female,
+1583,Jan Mayen,25-54_female,
+1584,Jarvis Island,25-54_female,
+1585,Johnston Atoll,25-54_female,
+1586,Kingman Reef,25-54_female,
+1587,Midway Islands,25-54_female,
+1588,Navassa Island,25-54_female,
+1589,Niue,25-54_female,
+1590,Norfolk Island,25-54_female,
+1591,Pacific Ocean,25-54_female,
+1592,Palmyra Atoll,25-54_female,
+1593,Paracel Islands,25-54_female,
+1594,Pitcairn Islands,25-54_female,
+1595,South Georgia and South Sandwich Islands,25-54_female,
+1596,Southern Ocean,25-54_female,
+1597,Spratly Islands,25-54_female,
+1598,Svalbard,25-54_female,
+1599,Tokelau,25-54_female,
+1600,United States Pacific Island Wildlife Refuges,25-54_female,
+1601,Wake Island,25-54_female,
+1602,Afghanistan,55-64_male,679766.0
+1603,Albania,55-64_male,176420.0
+1604,Algeria,55-64_male,1472527.0
+1605,American Samoa,55-64_male,2244.0
+1606,Andorra,55-64_male,6674.0
+1607,Angola,55-64_male,466085.0
+1608,Anguilla,55-64_male,918.0
+1609,Antigua and Barbuda,55-64_male,4346.0
+1610,Argentina,55-64_male,1977421.0
+1611,Armenia,55-64_male,192515.0
+1612,Aruba,55-64_male,7910.0
+1613,Australia,55-64_male,1379681.0
+1614,Austria,55-64_male,595146.0
+1615,Azerbaijan,55-64_male,493555.0
+1616,"Bahamas, The",55-64_male,14298.0
+1617,Bahrain,55-64_male,59404.0
+1618,Bangladesh,55-64_male,5582450.0
+1619,Barbados,55-64_male,18888.0
+1620,Belarus,55-64_male,607368.0
+1621,Belgium,55-64_male,742842.0
+1622,Belize,55-64_male,11397.0
+1623,Benin,55-64_male,184453.0
+1624,Bermuda,55-64_male,5383.0
+1625,Bhutan,55-64_male,25160.0
+1626,Bolivia,55-64_male,310250.0
+1627,Bosnia and Herzegovina,55-64_male,278460.0
+1628,Botswana,55-64_male,53653.0
+1629,Brazil,55-64_male,9229665.0
+1630,British Virgin Islands,55-64_male,2073.0
+1631,Brunei,55-64_male,18859.0
+1632,Bulgaria,55-64_male,442083.0
+1633,Burkina Faso,55-64_male,304642.0
+1634,Burma,55-64_male,2011057.0
+1635,Burundi,55-64_male,218272.0
+1636,Cabo Verde,55-64_male,16154.0
+1637,Cambodia,55-64_male,406970.0
+1638,Cameroon,55-64_male,499101.0
+1639,Canada,55-64_male,2538820.0
+1640,Cayman Islands,55-64_male,4169.0
+1641,Central African Republic,55-64_male,112310.0
+1642,Chad,55-64_male,228930.0
+1643,Chile,55-64_male,957872.0
+1644,China,55-64_male,79340391.0
+1645,Christmas Island,55-64_male,172.0
+1646,Colombia,55-64_male,2145031.0
+1647,Comoros,55-64_male,15957.0
+1648,"Congo, Democratic Republic of the",55-64_male,1472758.0
+1649,"Congo, Republic of the",55-64_male,112669.0
+1650,Cook Islands,55-64_male,627.0
+1651,Costa Rica,55-64_male,229928.0
+1652,Cote d'Ivoire,55-64_male,460048.0
+1653,Croatia,55-64_male,304054.0
+1654,Cuba,55-64_male,677304.0
+1655,Curacao,55-64_male,9018.0
+1656,Cyprus,55-64_male,68952.0
+1657,Czechia,55-64_male,638130.0
+1658,Denmark,55-64_male,356860.0
+1659,Djibouti,55-64_male,18967.0
+1660,Dominica,55-64_male,3927.0
+1661,Dominican Republic,55-64_male,397821.0
+1662,Ecuador,55-64_male,615769.0
+1663,Egypt,55-64_male,2956535.0
+1664,El Salvador,55-64_male,198513.0
+1665,Equatorial Guinea,55-64_male,15428.0
+1666,Eritrea,55-64_male,96967.0
+1667,Estonia,55-64_male,76895.0
+1668,Eswatini,55-64_male,19915.0
+1669,Ethiopia,55-64_male,2059129.0
+1670,European Union,55-64_male,33083278.0
+1671,Faroe Islands,55-64_male,3094.0
+1672,Fiji,55-64_male,41286.0
+1673,Finland,55-64_male,359434.0
+1674,France,55-64_male,4035073.0
+1675,French Polynesia,55-64_male,14503.0
+1676,Gabon,55-64_male,54679.0
+1677,"Gambia, The",55-64_male,42655.0
+1678,Gaza Strip,55-64_male,33413.0
+1679,Georgia,55-64_male,289337.0
+1680,Germany,55-64_male,5989111.0
+1681,Ghana,55-64_male,690327.0
+1682,Gibraltar,55-64_male,1183.0
+1683,Greece,55-64_male,699205.0
+1684,Greenland,55-64_male,4259.0
+1685,Grenada,55-64_male,6284.0
+1686,Guam,55-64_male,8627.0
+1687,Guatemala,55-64_male,407592.0
+1688,Guernsey,55-64_male,4425.0
+1689,Guinea,55-64_male,269995.0
+1690,Guinea-Bissau,55-64_male,27621.0
+1691,Guyana,55-64_male,27684.0
+1692,Haiti,55-64_male,262494.0
+1693,Honduras,55-64_male,229066.0
+1694,Hong Kong,55-64_male,571329.0
+1695,Hungary,55-64_male,593250.0
+1696,Iceland,55-64_male,20350.0
+1697,India,55-64_male,49334703.0
+1698,Indonesia,55-64_male,10447365.0
+1699,Iran,55-64_male,3022134.0
+1700,Iraq,55-64_male,788602.0
+1701,Ireland,55-64_male,267255.0
+1702,Isle of Man,55-64_male,6012.0
+1703,Israel,55-64_male,350050.0
+1704,Italy,55-64_male,4012640.0
+1705,Jamaica,55-64_male,123769.0
+1706,Japan,55-64_male,7588597.0
+1707,Jersey,55-64_male,6187.0
+1708,Jordan,55-64_male,253029.0
+1709,Kazakhstan,55-64_male,831872.0
+1710,Kenya,55-64_male,894371.0
+1711,Kiribati,55-64_male,3071.0
+1712,"Korea, North",55-64_male,1241473.0
+1713,"Korea, South",55-64_male,3825127.0
+1714,Kosovo,55-64_male,79415.0
+1715,Kuwait,55-64_male,85146.0
+1716,Kyrgyzstan,55-64_male,202754.0
+1717,Laos,55-64_male,196509.0
+1718,Latvia,55-64_male,123611.0
+1719,Lebanon,55-64_male,241206.0
+1720,Lesotho,55-64_male,52490.0
+1721,Liberia,55-64_male,84474.0
+1722,Libya,55-64_male,197196.0
+1723,Liechtenstein,55-64_male,2640.0
+1724,Lithuania,55-64_male,180294.0
+1725,Luxembourg,55-64_male,36670.0
+1726,Macau,55-64_male,42409.0
+1727,Macedonia,55-64_male,129731.0
+1728,Madagascar,55-64_male,560072.0
+1729,Malawi,55-64_male,284187.0
+1730,Malaysia,55-64_male,1364858.0
+1731,Maldives,55-64_male,11888.0
+1732,Mali,55-64_male,346003.0
+1733,Malta,55-64_male,29787.0
+1734,Marshall Islands,55-64_male,2221.0
+1735,Mauritania,55-64_male,82197.0
+1736,Mauritius,55-64_male,76620.0
+1737,Mexico,55-64_male,4538167.0
+1738,"Micronesia, Federated States of",55-64_male,3574.0
+1739,Moldova,55-64_male,213410.0
+1740,Monaco,55-64_male,2305.0
+1741,Mongolia,55-64_male,105085.0
+1742,Montenegro,55-64_male,40661.0
+1743,Montserrat,55-64_male,214.0
+1744,Morocco,55-64_male,1404527.0
+1745,Mozambique,55-64_male,442990.0
+1746,Namibia,55-64_male,50459.0
+1747,Nauru,55-64_male,249.0
+1748,Nepal,55-64_male,917342.0
+1749,Netherlands,55-64_male,1143824.0
+1750,New Caledonia,55-64_male,11713.0
+1751,New Zealand,55-64_male,266855.0
+1752,Nicaragua,55-64_male,173674.0
+1753,Niger,55-64_male,340032.0
+1754,Nigeria,55-64_male,4017658.0
+1755,Northern Mariana Islands,55-64_male,3701.0
+1756,Norway,55-64_male,318898.0
+1757,Oman,55-64_male,73233.0
+1758,Pakistan,55-64_male,5979712.0
+1759,Palau,55-64_male,765.0
+1760,Panama,55-64_male,152894.0
+1761,Papua New Guinea,55-64_male,201271.0
+1762,Paraguay,55-64_male,290719.0
+1763,Peru,55-64_male,1201272.0
+1764,Philippines,55-64_male,2932572.0
+1765,Poland,55-64_male,2538566.0
+1766,Portugal,55-64_male,605113.0
+1767,Puerto Rico,55-64_male,198577.0
+1768,Qatar,55-64_male,62683.0
+1769,Romania,55-64_male,1244669.0
+1770,Russia,55-64_male,8907031.0
+1771,Rwanda,55-64_male,225273.0
+1772,Saint Barthelemy,55-64_male,621.0
+1773,"Saint Helena, Ascension, and Tristan da Cunha",55-64_male,512.0
+1774,Saint Kitts and Nevis,55-64_male,3274.0
+1775,Saint Lucia,55-64_male,7944.0
+1776,Saint Martin,55-64_male,1317.0
+1777,Saint Pierre and Miquelon,55-64_male,389.0
+1778,Saint Vincent and the Grenadines,55-64_male,5792.0
+1779,Samoa,55-64_male,7223.0
+1780,San Marino,55-64_male,2215.0
+1781,Sao Tome and Principe,55-64_male,3708.0
+1782,Saudi Arabia,55-64_male,1112743.0
+1783,Senegal,55-64_male,261682.0
+1784,Serbia,55-64_male,485849.0
+1785,Seychelles,55-64_male,5008.0
+1786,Sierra Leone,55-64_male,110176.0
+1787,Singapore,55-64_male,316001.0
+1788,Sint Maarten,55-64_male,3356.0
+1789,Slovakia,55-64_male,345114.0
+1790,Slovenia,55-64_male,149714.0
+1791,Solomon Islands,55-64_male,16112.0
+1792,Somalia,55-64_male,245744.0
+1793,South Africa,55-64_male,1725034.0
+1794,South Sudan,55-64_male,215247.0
+1795,Spain,55-64_male,2980206.0
+1796,Sri Lanka,55-64_male,1067258.0
+1797,Sudan,55-64_male,876614.0
+1798,Suriname,55-64_male,23377.0
+1799,Sweden,55-64_male,588314.0
+1800,Switzerland,55-64_male,535457.0
+1801,Syria,55-64_male,531455.0
+1802,Taiwan,55-64_male,1652683.0
+1803,Tajikistan,55-64_male,231820.0
+1804,Tanzania,55-64_male,872601.0
+1805,Thailand,55-64_male,3970979.0
+1806,Timor-Leste,55-64_male,33047.0
+1807,Togo,55-64_male,167575.0
+1808,Tonga,55-64_male,3098.0
+1809,Trinidad and Tobago,55-64_male,79596.0
+1810,Tunisia,55-64_male,560233.0
+1811,Turkey,55-64_male,3557329.0
+1812,Turkmenistan,55-64_male,208328.0
+1813,Turks and Caicos Islands,55-64_male,1988.0
+1814,Tuvalu,55-64_male,404.0
+1815,Uganda,55-64_male,522637.0
+1816,Ukraine,55-64_male,2638173.0
+1817,United Arab Emirates,55-64_male,499579.0
+1818,United Kingdom,55-64_male,3936466.0
+1819,United States,55-64_male,20578432.0
+1820,Uruguay,55-64_male,169385.0
+1821,Uzbekistan,55-64_male,1156462.0
+1822,Vanuatu,55-64_male,7973.0
+1823,Venezuela,55-64_male,1233524.0
+1824,Vietnam,55-64_male,4014622.0
+1825,Virgin Islands,55-64_male,7039.0
+1826,Wallis and Futuna,55-64_male,752.0
+1827,West Bank,55-64_male,68317.0
+1828,Western Sahara,55-64_male,14773.0
+1829,World,55-64_male,307262939.0
+1830,Yemen,55-64_male,523769.0
+1831,Zambia,55-64_male,225586.0
+1832,Zimbabwe,55-64_male,233021.0
+1833,Akrotiri,55-64_male,
+1834,Antarctica,55-64_male,
+1835,Arctic Ocean,55-64_male,
+1836,Ashmore and Cartier Islands,55-64_male,
+1837,Atlantic Ocean,55-64_male,
+1838,Bouvet Island,55-64_male,
+1839,British Indian Ocean Territory,55-64_male,
+1840,Clipperton Island,55-64_male,
+1841,Cocos (Keeling) Islands,55-64_male,
+1842,Coral Sea Islands,55-64_male,
+1843,Dhekelia,55-64_male,
+1844,Falkland Islands (Islas Malvinas),55-64_male,
+1845,French Southern and Antarctic Lands,55-64_male,
+1846,Heard Island and McDonald Islands,55-64_male,
+1847,Holy See (Vatican City),55-64_male,
+1848,Howland Island,55-64_male,
+1849,Indian Ocean,55-64_male,
+1850,Jan Mayen,55-64_male,
+1851,Jarvis Island,55-64_male,
+1852,Johnston Atoll,55-64_male,
+1853,Kingman Reef,55-64_male,
+1854,Midway Islands,55-64_male,
+1855,Navassa Island,55-64_male,
+1856,Niue,55-64_male,
+1857,Norfolk Island,55-64_male,
+1858,Pacific Ocean,55-64_male,
+1859,Palmyra Atoll,55-64_male,
+1860,Paracel Islands,55-64_male,
+1861,Pitcairn Islands,55-64_male,
+1862,South Georgia and South Sandwich Islands,55-64_male,
+1863,Southern Ocean,55-64_male,
+1864,Spratly Islands,55-64_male,
+1865,Svalbard,55-64_male,
+1866,Tokelau,55-64_male,
+1867,United States Pacific Island Wildlife Refuges,55-64_male,
+1868,Wake Island,55-64_male,
+1869,Afghanistan,55-64_female,699308.0
+1870,Albania,55-64_female,183391.0
+1871,Algeria,55-64_female,1446083.0
+1872,American Samoa,55-64_female,2310.0
+1873,Andorra,55-64_female,5935.0
+1874,Angola,55-64_female,540452.0
+1875,Anguilla,55-64_female,1092.0
+1876,Antigua and Barbuda,55-64_female,5370.0
+1877,Argentina,55-64_female,2096665.0
+1878,Armenia,55-64_female,225882.0
+1879,Aruba,55-64_female,9005.0
+1880,Australia,55-64_female,1398177.0
+1881,Austria,55-64_female,603249.0
+1882,Azerbaijan,55-64_female,578440.0
+1883,"Bahamas, The",55-64_female,17140.0
+1884,Bahrain,55-64_female,34284.0
+1885,Bangladesh,55-64_female,5716763.0
+1886,Barbados,55-64_female,21043.0
+1887,Belarus,55-64_female,766238.0
+1888,Belgium,55-64_female,756509.0
+1889,Belize,55-64_female,11284.0
+1890,Benin,55-64_female,229945.0
+1891,Bermuda,55-64_female,6034.0
+1892,Bhutan,55-64_female,21817.0
+1893,Bolivia,55-64_female,363403.0
+1894,Bosnia and Herzegovina,55-64_female,297231.0
+1895,Botswana,55-64_female,72617.0
+1896,Brazil,55-64_female,10296824.0
+1897,British Virgin Islands,55-64_female,2199.0
+1898,Brunei,55-64_female,18551.0
+1899,Bulgaria,55-64_female,496888.0
+1900,Burkina Faso,55-64_female,396072.0
+1901,Burma,55-64_female,2301983.0
+1902,Burundi,55-64_female,242855.0
+1903,Cabo Verde,55-64_female,20245.0
+1904,Cambodia,55-64_female,569383.0
+1905,Cameroon,55-64_female,524288.0
+1906,Canada,55-64_female,2570709.0
+1907,Cayman Islands,55-64_female,4558.0
+1908,Central African Republic,55-64_female,127045.0
+1909,Chad,55-64_female,286379.0
+1910,Chile,55-64_female,1070975.0
+1911,China,55-64_female,77857806.0
+1912,Christmas Island,55-64_female,85.0
+1913,Colombia,55-64_female,2404090.0
+1914,Comoros,55-64_female,19690.0
+1915,"Congo, Democratic Republic of the",55-64_female,1625637.0
+1916,"Congo, Republic of the",55-64_female,109429.0
+1917,Cook Islands,55-64_female,523.0
+1918,Costa Rica,55-64_female,242696.0
+1919,Cote d'Ivoire,55-64_female,451604.0
+1920,Croatia,55-64_female,321543.0
+1921,Cuba,55-64_female,716704.0
+1922,Curacao,55-64_female,11769.0
+1923,Cyprus,55-64_female,74842.0
+1924,Czechia,55-64_female,669959.0
+1925,Denmark,55-64_female,359264.0
+1926,Djibouti,55-64_female,23639.0
+1927,Dominica,55-64_female,3470.0
+1928,Dominican Republic,55-64_female,396172.0
+1929,Ecuador,55-64_female,649777.0
+1930,Egypt,55-64_female,2995497.0
+1931,El Salvador,55-64_female,254640.0
+1932,Equatorial Guinea,55-64_female,20176.0
+1933,Eritrea,55-64_female,123895.0
+1934,Estonia,55-64_female,92759.0
+1935,Eswatini,55-64_female,26663.0
+1936,Ethiopia,55-64_female,2185814.0
+1937,European Union,55-64_female,34885100.0
+1938,Faroe Islands,55-64_female,2934.0
+1939,Fiji,55-64_female,40167.0
+1940,Finland,55-64_female,370993.0
+1941,France,55-64_female,4331751.0
+1942,French Polynesia,55-64_female,13719.0
+1943,Gabon,55-64_female,50356.0
+1944,"Gambia, The",55-64_female,46591.0
+1945,Gaza Strip,55-64_female,30592.0
+1946,Georgia,55-64_female,359444.0
+1947,Germany,55-64_female,6047449.0
+1948,Ghana,55-64_female,727957.0
+1949,Gibraltar,55-64_female,1560.0
+1950,Greece,55-64_female,729655.0
+1951,Greenland,55-64_female,3529.0
+1952,Grenada,55-64_female,6023.0
+1953,Guam,55-64_female,8236.0
+1954,Guatemala,55-64_female,468335.0
+1955,Guernsey,55-64_female,4496.0
+1956,Guinea,55-64_female,289164.0
+1957,Guinea-Bissau,55-64_female,32611.0
+1958,Guyana,55-64_female,32678.0
+1959,Haiti,55-64_female,287515.0
+1960,Honduras,55-64_female,255169.0
+1961,Hong Kong,55-64_female,628774.0
+1962,Hungary,55-64_female,690784.0
+1963,Iceland,55-64_female,20426.0
+1964,India,55-64_female,49197817.0
+1965,Indonesia,55-64_female,12494036.0
+1966,Iran,55-64_female,3113443.0
+1967,Iraq,55-64_female,839291.0
+1968,Ireland,55-64_female,266438.0
+1969,Isle of Man,55-64_female,5919.0
+1970,Israel,55-64_female,359578.0
+1971,Italy,55-64_female,4261956.0
+1972,Jamaica,55-64_female,126350.0
+1973,Japan,55-64_female,7563245.0
+1974,Jersey,55-64_female,6497.0
+1975,Jordan,55-64_female,232652.0
+1976,Kazakhstan,55-64_female,1068651.0
+1977,Kenya,55-64_female,1040883.0
+1978,Kiribati,55-64_female,3747.0
+1979,"Korea, North",55-64_female,1383444.0
+1980,"Korea, South",55-64_female,3935700.0
+1981,Kosovo,55-64_female,76743.0
+1982,Kuwait,55-64_female,66373.0
+1983,Kyrgyzstan,55-64_female,262412.0
+1984,Laos,55-64_female,206613.0
+1985,Latvia,55-64_female,153007.0
+1986,Lebanon,55-64_female,267747.0
+1987,Lesotho,55-64_female,46016.0
+1988,Liberia,55-64_female,80410.0
+1989,Libya,55-64_female,192320.0
+1990,Liechtenstein,55-64_female,2811.0
+1991,Lithuania,55-64_female,226250.0
+1992,Luxembourg,55-64_female,35442.0
+1993,Macau,55-64_female,42174.0
+1994,Macedonia,55-64_female,133645.0
+1995,Madagascar,55-64_female,581963.0
+1996,Malawi,55-64_female,310393.0
+1997,Malaysia,55-64_female,1325595.0
+1998,Maldives,55-64_female,12540.0
+1999,Mali,55-64_female,335733.0
+2000,Malta,55-64_female,29703.0
+2001,Marshall Islands,55-64_female,2215.0
+2002,Mauritania,55-64_female,99734.0
+2003,Mauritius,55-64_female,84554.0
+2004,Mexico,55-64_female,5375867.0
+2005,"Micronesia, Federated States of",55-64_female,3777.0
+2006,Moldova,55-64_female,250755.0
+2007,Monaco,55-64_female,2315.0
+2008,Mongolia,55-64_female,125502.0
+2009,Montenegro,55-64_female,42089.0
+2010,Montserrat,55-64_female,254.0
+2011,Morocco,55-64_female,1454304.0
+2012,Mozambique,55-64_female,475900.0
+2013,Namibia,55-64_female,62478.0
+2014,Nauru,55-64_female,382.0
+2015,Nepal,55-64_female,991937.0
+2016,Netherlands,55-64_female,1155751.0
+2017,New Caledonia,55-64_female,12530.0
+2018,New Zealand,55-64_female,281507.0
+2019,Nicaragua,55-64_female,202765.0
+2020,Niger,55-64_female,315142.0
+2021,Nigeria,55-64_female,4197739.0
+2022,Northern Mariana Islands,55-64_female,3057.0
+2023,Norway,55-64_female,310668.0
+2024,Oman,55-64_female,64450.0
+2025,Pakistan,55-64_female,5871574.0
+2026,Palau,55-64_female,1384.0
+2027,Panama,55-64_female,155353.0
+2028,Papua New Guinea,55-64_female,191833.0
+2029,Paraguay,55-64_female,280328.0
+2030,Peru,55-64_female,1289734.0
+2031,Philippines,55-64_female,3462832.0
+2032,Poland,55-64_female,2819544.0
+2033,Portugal,55-64_female,720192.0
+2034,Puerto Rico,55-64_female,234490.0
+2035,Qatar,55-64_female,18731.0
+2036,Romania,55-64_female,1409854.0
+2037,Russia,55-64_female,11709921.0
+2038,Rwanda,55-64_female,280545.0
+2039,Saint Barthelemy,55-64_female,534.0
+2040,"Saint Helena, Ascension, and Tristan da Cunha",55-64_female,496.0
+2041,Saint Kitts and Nevis,55-64_female,3283.0
+2042,Saint Lucia,55-64_female,9284.0
+2043,Saint Martin,55-64_female,1511.0
+2044,Saint Pierre and Miquelon,55-64_female,360.0
+2045,Saint Vincent and the Grenadines,55-64_female,5437.0
+2046,Samoa,55-64_female,6973.0
+2047,San Marino,55-64_female,2294.0
+2048,Sao Tome and Principe,55-64_female,4332.0
+2049,Saudi Arabia,55-64_female,700553.0
+2050,Senegal,55-64_female,347374.0
+2051,Serbia,55-64_female,520126.0
+2052,Seychelles,55-64_female,4870.0
+2053,Sierra Leone,55-64_female,123268.0
+2054,Singapore,55-64_female,315648.0
+2055,Sint Maarten,55-64_female,3694.0
+2056,Slovakia,55-64_female,380077.0
+2057,Slovenia,55-64_female,150045.0
+2058,Solomon Islands,55-64_female,15389.0
+2059,Somalia,55-64_female,243893.0
+2060,South Africa,55-64_female,1992035.0
+2061,South Sudan,55-64_female,174078.0
+2062,Spain,55-64_female,3125949.0
+2063,Sri Lanka,55-64_female,1239204.0
+2064,Sudan,55-64_female,819048.0
+2065,Suriname,55-64_female,24085.0
+2066,Sweden,55-64_female,583002.0
+2067,Switzerland,55-64_female,532454.0
+2068,Syria,55-64_female,542738.0
+2069,Taiwan,55-64_female,1729571.0
+2070,Tajikistan,55-64_female,271946.0
+2071,Tanzania,55-64_female,1074480.0
+2072,Thailand,55-64_female,4503647.0
+2073,Timor-Leste,55-64_female,33325.0
+2074,Togo,55-64_female,187432.0
+2075,Tonga,55-64_female,3089.0
+2076,Trinidad and Tobago,55-64_female,79890.0
+2077,Tunisia,55-64_female,562436.0
+2078,Turkey,55-64_female,3606120.0
+2079,Turkmenistan,55-64_female,233902.0
+2080,Turks and Caicos Islands,55-64_female,1748.0
+2081,Tuvalu,55-64_female,584.0
+2082,Uganda,55-64_female,554287.0
+2083,Ukraine,55-64_female,3499718.0
+2084,United Arab Emirates,55-64_female,87037.0
+2085,United Kingdom,55-64_female,4022245.0
+2086,United States,55-64_female,22040267.0
+2087,Uruguay,55-64_female,190392.0
+2088,Uzbekistan,55-64_female,1289703.0
+2089,Vanuatu,55-64_female,8072.0
+2090,Venezuela,55-64_female,1336963.0
+2091,Vietnam,55-64_female,4620177.0
+2092,Virgin Islands,55-64_female,7851.0
+2093,Wallis and Futuna,55-64_female,787.0
+2094,West Bank,55-64_female,64233.0
+2095,Western Sahara,55-64_female,16880.0
+2096,World,55-64_female,322668546.0
+2097,Yemen,55-64_female,623100.0
+2098,Zambia,55-64_female,260252.0
+2099,Zimbabwe,55-64_female,361759.0
+2100,Akrotiri,55-64_female,
+2101,Antarctica,55-64_female,
+2102,Arctic Ocean,55-64_female,
+2103,Ashmore and Cartier Islands,55-64_female,
+2104,Atlantic Ocean,55-64_female,
+2105,Bouvet Island,55-64_female,
+2106,British Indian Ocean Territory,55-64_female,
+2107,Clipperton Island,55-64_female,
+2108,Cocos (Keeling) Islands,55-64_female,
+2109,Coral Sea Islands,55-64_female,
+2110,Dhekelia,55-64_female,
+2111,Falkland Islands (Islas Malvinas),55-64_female,
+2112,French Southern and Antarctic Lands,55-64_female,
+2113,Heard Island and McDonald Islands,55-64_female,
+2114,Holy See (Vatican City),55-64_female,
+2115,Howland Island,55-64_female,
+2116,Indian Ocean,55-64_female,
+2117,Jan Mayen,55-64_female,
+2118,Jarvis Island,55-64_female,
+2119,Johnston Atoll,55-64_female,
+2120,Kingman Reef,55-64_female,
+2121,Midway Islands,55-64_female,
+2122,Navassa Island,55-64_female,
+2123,Niue,55-64_female,
+2124,Norfolk Island,55-64_female,
+2125,Pacific Ocean,55-64_female,
+2126,Palmyra Atoll,55-64_female,
+2127,Paracel Islands,55-64_female,
+2128,Pitcairn Islands,55-64_female,
+2129,South Georgia and South Sandwich Islands,55-64_female,
+2130,Southern Ocean,55-64_female,
+2131,Spratly Islands,55-64_female,
+2132,Svalbard,55-64_female,
+2133,Tokelau,55-64_female,
+2134,United States Pacific Island Wildlife Refuges,55-64_female,
+2135,Wake Island,55-64_female,
+2136,Afghanistan,65+_male,420445.0
+2137,Albania,65+_male,174752.0
+2138,Algeria,65+_male,1133852.0
+2139,American Samoa,65+_male,1486.0
+2140,Andorra,65+_male,7047.0
+2141,Angola,65+_male,296411.0
+2142,Anguilla,65+_male,786.0
+2143,Antigua and Barbuda,65+_male,3422.0
+2144,Argentina,65+_male,2216487.0
+2145,Armenia,65+_male,142835.0
+2146,Aruba,65+_male,6422.0
+2147,Australia,65+_male,1786595.0
+2148,Austria,65+_male,743174.0
+2149,Azerbaijan,65+_male,262989.0
+2150,"Bahamas, The",65+_male,10318.0
+2151,Bahrain,65+_male,22258.0
+2152,Bangladesh,65+_male,4844612.0
+2153,Barbados,65+_male,14705.0
+2154,Belarus,65+_male,467299.0
+2155,Belgium,65+_male,948956.0
+2156,Belize,65+_male,8293.0
+2157,Benin,65+_male,128920.0
+2158,Bermuda,65+_male,5596.0
+2159,Bhutan,65+_male,25492.0
+2160,Bolivia,65+_male,270435.0
+2161,Bosnia and Herzegovina,65+_male,229282.0
+2162,Botswana,65+_male,51304.0
+2163,Brazil,65+_male,7666845.0
+2164,British Virgin Islands,65+_male,1611.0
+2165,Brunei,65+_male,11336.0
+2166,Bulgaria,65+_male,557237.0
+2167,Burkina Faso,65+_male,273031.0
+2168,Burma,65+_male,1373892.0
+2169,Burundi,65+_male,137590.0
+2170,Cabo Verde,65+_male,11272.0
+2171,Cambodia,65+_male,269159.0
+2172,Cameroon,65+_male,384845.0
+2173,Canada,65+_male,3055560.0
+2174,Cayman Islands,65+_male,3627.0
+2175,Central African Republic,65+_male,75401.0
+2176,Chad,65+_male,164257.0
+2177,Chile,65+_male,836489.0
+2178,China,65+_male,74277631.0
+2179,Christmas Island,65+_male,84.0
+2180,Colombia,65+_male,1555848.0
+2181,Comoros,65+_male,14881.0
+2182,"Congo, Democratic Republic of the",65+_male,974293.0
+2183,"Congo, Republic of the",65+_male,69621.0
+2184,Cook Islands,65+_male,558.0
+2185,Costa Rica,65+_male,186531.0
+2186,Cote d'Ivoire,65+_male,325510.0
+2187,Croatia,65+_male,342025.0
+2188,Cuba,65+_male,773636.0
+2189,Curacao,65+_male,9547.0
+2190,Cyprus,65+_male,66209.0
+2191,Czechia,65+_male,865455.0
+2192,Denmark,65+_male,518200.0
+2193,Djibouti,65+_male,15136.0
+2194,Dominica,65+_male,3814.0
+2195,Dominican Republic,65+_male,286300.0
+2196,Ecuador,65+_male,599221.0
+2197,Egypt,65+_male,2058217.0
+2198,El Salvador,65+_male,208817.0
+2199,Equatorial Guinea,65+_male,13000.0
+2200,Eritrea,65+_male,97816.0
+2201,Estonia,65+_male,85900.0
+2202,Eswatini,65+_male,15470.0
+2203,Ethiopia,65+_male,1445547.0
+2204,European Union,65+_male,43673572.0
+2205,Faroe Islands,65+_male,4194.0
+2206,Fiji,65+_male,28924.0
+2207,Finland,65+_male,519775.0
+2208,France,65+_male,5781410.0
+2209,French Polynesia,65+_male,11634.0
+2210,Gabon,65+_male,40721.0
+2211,"Gambia, The",65+_male,34328.0
+2212,Gaza Strip,65+_male,24863.0
+2213,Georgia,65+_male,314467.0
+2214,Germany,65+_male,7930590.0
+2215,Ghana,65+_male,557155.0
+2216,Gibraltar,65+_male,2336.0
+2217,Greece,65+_male,997359.0
+2218,Greenland,65+_male,2944.0
+2219,Grenada,65+_male,5377.0
+2220,Guam,65+_male,6947.0
+2221,Guatemala,65+_male,336377.0
+2222,Guernsey,65+_male,6038.0
+2223,Guinea,65+_male,203754.0
+2224,Guinea-Bissau,65+_male,24331.0
+2225,Guyana,65+_male,19336.0
+2226,Haiti,65+_male,199617.0
+2227,Honduras,65+_male,174771.0
+2228,Hong Kong,65+_male,580248.0
+2229,Hungary,65+_male,725728.0
+2230,Iceland,65+_male,23822.0
+2231,India,65+_male,39184523.0
+2232,Indonesia,65+_male,8326858.0
+2233,Iran,65+_male,2111390.0
+2234,Iraq,65+_male,632753.0
+2235,Ireland,65+_male,312694.0
+2236,Isle of Man,65+_male,8661.0
+2237,Israel,65+_male,437511.0
+2238,Italy,65+_male,5817819.0
+2239,Jamaica,65+_male,115573.0
+2240,Japan,65+_male,15655860.0
+2241,Jersey,65+_male,7015.0
+2242,Jordan,65+_male,180652.0
+2243,Kazakhstan,65+_male,517471.0
+2244,Kenya,65+_male,640005.0
+2245,Kiribati,65+_male,1863.0
+2246,"Korea, North",65+_male,826101.0
+2247,"Korea, South",65+_male,3202232.0
+2248,Kosovo,65+_male,59830.0
+2249,Kuwait,65+_male,35117.0
+2250,Kyrgyzstan,65+_male,121221.0
+2251,Laos,65+_male,129336.0
+2252,Latvia,65+_male,125709.0
+2253,Lebanon,65+_male,185780.0
+2254,Lesotho,65+_male,55804.0
+2255,Liberia,65+_male,67229.0
+2256,Libya,65+_male,147168.0
+2257,Liechtenstein,65+_male,3171.0
+2258,Lithuania,65+_male,188269.0
+2259,Luxembourg,65+_male,41002.0
+2260,Macau,65+_male,31689.0
+2261,Macedonia,65+_male,123101.0
+2262,Madagascar,65+_male,390094.0
+2263,Malawi,65+_male,234776.0
+2264,Malaysia,65+_male,957841.0
+2265,Maldives,65+_male,8101.0
+2266,Mali,65+_male,277834.0
+2267,Malta,65+_male,41900.0
+2268,Marshall Islands,65+_male,1580.0
+2269,Mauritania,65+_male,62072.0
+2270,Mauritius,65+_male,57094.0
+2271,Mexico,65+_male,4079513.0
+2272,"Micronesia, Federated States of",65+_male,1943.0
+2273,Moldova,65+_male,176252.0
+2274,Monaco,65+_male,4530.0
+2275,Mongolia,65+_male,55447.0
+2276,Montenegro,65+_male,39899.0
+2277,Montserrat,65+_male,191.0
+2278,Morocco,65+_male,1081035.0
+2279,Mozambique,65+_male,359624.0
+2280,Namibia,65+_male,42381.0
+2281,Nauru,65+_male,101.0
+2282,Nepal,65+_male,785893.0
+2283,Netherlands,65+_male,1487278.0
+2284,New Caledonia,65+_male,11790.0
+2285,New Zealand,65+_male,327052.0
+2286,Nicaragua,65+_male,147324.0
+2287,Niger,65+_male,268072.0
+2288,Nigeria,65+_male,3138206.0
+2289,Northern Mariana Islands,65+_male,1672.0
+2290,Norway,65+_male,420178.0
+2291,Oman,65+_male,60354.0
+2292,Pakistan,65+_male,4399926.0
+2293,Palau,65+_male,464.0
+2294,Panama,65+_male,149415.0
+2295,Papua New Guinea,65+_male,153922.0
+2296,Paraguay,65+_male,242783.0
+2297,Peru,65+_male,1125850.0
+2298,Philippines,65+_male,2001964.0
+2299,Poland,65+_male,2663364.0
+2300,Portugal,65+_male,838606.0
+2301,Puerto Rico,65+_male,286630.0
+2302,Qatar,65+_male,16295.0
+2303,Romania,65+_male,1454320.0
+2304,Russia,65+_male,6565308.0
+2305,Rwanda,65+_male,120952.0
+2306,Saint Barthelemy,65+_male,631.0
+2307,"Saint Helena, Ascension, and Tristan da Cunha",65+_male,627.0
+2308,Saint Kitts and Nevis,65+_male,2236.0
+2309,Saint Lucia,65+_male,9086.0
+2310,Saint Martin,65+_male,1195.0
+2311,Saint Pierre and Miquelon,65+_male,489.0
+2312,Saint Vincent and the Grenadines,65+_male,4715.0
+2313,Samoa,65+_male,5126.0
+2314,San Marino,65+_male,3006.0
+2315,Sao Tome and Principe,65+_male,2545.0
+2316,Saudi Arabia,65+_male,586606.0
+2317,Senegal,65+_male,200079.0
+2318,Serbia,65+_male,557307.0
+2319,Seychelles,65+_male,2974.0
+2320,Sierra Leone,65+_male,97922.0
+2321,Singapore,65+_male,274863.0
+2322,Sint Maarten,65+_male,2017.0
+2323,Slovakia,65+_male,339350.0
+2324,Slovenia,65+_male,180080.0
+2325,Solomon Islands,65+_male,13515.0
+2326,Somalia,65+_male,95845.0
+2327,South Africa,65+_male,1351991.0
+2328,South Sudan,65+_male,145812.0
+2329,Spain,65+_male,3833601.0
+2330,Sri Lanka,65+_male,951213.0
+2331,Sudan,65+_male,688391.0
+2332,Suriname,65+_male,16019.0
+2333,Sweden,65+_male,946170.0
+2334,Switzerland,65+_male,672024.0
+2335,Syria,65+_male,379360.0
+2336,Taiwan,65+_male,1541716.0
+2337,Tajikistan,65+_male,121405.0
+2338,Tanzania,65+_male,706633.0
+2339,Thailand,65+_male,3289576.0
+2340,Timor-Leste,65+_male,25086.0
+2341,Togo,65+_male,122175.0
+2342,Tonga,65+_male,3140.0
+2343,Trinidad and Tobago,65+_male,58866.0
+2344,Tunisia,65+_male,448784.0
+2345,Turkey,65+_male,2825738.0
+2346,Turkmenistan,65+_male,116218.0
+2347,Turks and Caicos Islands,65+_male,1181.0
+2348,Tuvalu,65+_male,274.0
+2349,Uganda,65+_male,351481.0
+2350,Ukraine,65+_male,2433718.0
+2351,United Arab Emirates,65+_male,106739.0
+2352,United Kingdom,65+_male,5321392.0
+2353,United States,65+_male,23489515.0
+2354,Uruguay,65+_male,194269.0
+2355,Uzbekistan,65+_male,698610.0
+2356,Vanuatu,65+_male,5968.0
+2357,Venezuela,65+_male,1056864.0
+2358,Vietnam,65+_male,2404304.0
+2359,Virgin Islands,65+_male,8802.0
+2360,Wallis and Futuna,65+_male,782.0
+2361,West Bank,65+_male,44662.0
+2362,Western Sahara,65+_male,10787.0
+2363,World,65+_male,283540918.0
+2364,Yemen,65+_male,366891.0
+2365,Zambia,65+_male,166224.0
+2366,Zimbabwe,65+_male,255704.0
+2367,Akrotiri,65+_male,
+2368,Antarctica,65+_male,
+2369,Arctic Ocean,65+_male,
+2370,Ashmore and Cartier Islands,65+_male,
+2371,Atlantic Ocean,65+_male,
+2372,Bouvet Island,65+_male,
+2373,British Indian Ocean Territory,65+_male,
+2374,Clipperton Island,65+_male,
+2375,Cocos (Keeling) Islands,65+_male,
+2376,Coral Sea Islands,65+_male,
+2377,Dhekelia,65+_male,
+2378,Falkland Islands (Islas Malvinas),65+_male,
+2379,French Southern and Antarctic Lands,65+_male,
+2380,Heard Island and McDonald Islands,65+_male,
+2381,Holy See (Vatican City),65+_male,
+2382,Howland Island,65+_male,
+2383,Indian Ocean,65+_male,
+2384,Jan Mayen,65+_male,
+2385,Jarvis Island,65+_male,
+2386,Johnston Atoll,65+_male,
+2387,Kingman Reef,65+_male,
+2388,Midway Islands,65+_male,
+2389,Navassa Island,65+_male,
+2390,Niue,65+_male,
+2391,Norfolk Island,65+_male,
+2392,Pacific Ocean,65+_male,
+2393,Palmyra Atoll,65+_male,
+2394,Paracel Islands,65+_male,
+2395,Pitcairn Islands,65+_male,
+2396,South Georgia and South Sandwich Islands,65+_male,
+2397,Southern Ocean,65+_male,
+2398,Spratly Islands,65+_male,
+2399,Svalbard,65+_male,
+2400,Tokelau,65+_male,
+2401,United States Pacific Island Wildlife Refuges,65+_male,
+2402,Wake Island,65+_male,
+2403,Afghanistan,65+_female,491085.0
+2404,Albania,65+_female,199284.0
+2405,Algeria,65+_female,1287808.0
+2406,American Samoa,65+_female,1688.0
+2407,Andorra,65+_female,6817.0
+2408,Angola,65+_female,408648.0
+2409,Anguilla,65+_female,804.0
+2410,Antigua and Barbuda,65+_female,4559.0
+2411,Argentina,65+_female,3052135.0
+2412,Armenia,65+_female,212570.0
+2413,Aruba,65+_female,9967.0
+2414,Australia,65+_female,2071701.0
+2415,Austria,65+_female,966511.0
+2416,Azerbaijan,65+_female,421234.0
+2417,"Bahamas, The",65+_female,16455.0
+2418,Bahrain,65+_female,22131.0
+2419,Bangladesh,65+_female,5392478.0
+2420,Barbados,65+_female,21528.0
+2421,Belarus,65+_female,982979.0
+2422,Belgium,65+_female,1223921.0
+2423,Belize,65+_female,8487.0
+2424,Benin,65+_female,198947.0
+2425,Bermuda,65+_female,7594.0
+2426,Bhutan,65+_female,23458.0
+2427,Bolivia,65+_female,344054.0
+2428,Bosnia and Herzegovina,65+_female,349775.0
+2429,Botswana,65+_female,68607.0
+2430,Brazil,65+_female,10315429.0
+2431,British Virgin Islands,65+_female,1726.0
+2432,Brunei,65+_female,11960.0
+2433,Bulgaria,65+_female,821957.0
+2434,Burkina Faso,65+_female,350538.0
+2435,Burma,65+_female,1778461.0
+2436,Burundi,65+_female,180966.0
+2437,Cabo Verde,65+_female,18526.0
+2438,Cambodia,65+_female,449620.0
+2439,Cameroon,65+_female,443099.0
+2440,Canada,65+_female,3791940.0
+2441,Cayman Islands,65+_female,4203.0
+2442,Central African Republic,65+_female,119275.0
+2443,Chad,65+_female,214754.0
+2444,Chile,65+_female,1157869.0
+2445,China,65+_female,81828269.0
+2446,Christmas Island,65+_female,36.0
+2447,Colombia,65+_female,2168434.0
+2448,Comoros,65+_female,17829.0
+2449,"Congo, Democratic Republic of the",65+_female,1321297.0
+2450,"Congo, Republic of the",65+_female,87318.0
+2451,Cook Islands,65+_female,576.0
+2452,Costa Rica,65+_female,218025.0
+2453,Cote d'Ivoire,65+_female,403664.0
+2454,Croatia,65+_female,508184.0
+2455,Cuba,65+_female,918756.0
+2456,Curacao,65+_female,13849.0
+2457,Cyprus,65+_female,86948.0
+2458,Czechia,65+_female,1209490.0
+2459,Denmark,65+_female,609737.0
+2460,Djibouti,65+_female,18708.0
+2461,Dominica,65+_female,4648.0
+2462,Dominican Republic,65+_female,323781.0
+2463,Ecuador,65+_female,666729.0
+2464,Egypt,65+_female,2192791.0
+2465,El Salvador,65+_female,266997.0
+2466,Equatorial Guinea,65+_female,18384.0
+2467,Eritrea,65+_female,137843.0
+2468,Estonia,65+_female,165456.0
+2469,Eswatini,65+_female,25481.0
+2470,Ethiopia,65+_female,1770262.0
+2471,European Union,65+_female,57881819.0
+2472,Faroe Islands,65+_female,4471.0
+2473,Fiji,65+_female,34036.0
+2474,Finland,65+_female,671353.0
+2475,France,65+_female,7569011.0
+2476,French Polynesia,65+_female,12465.0
+2477,Gabon,65+_female,42179.0
+2478,"Gambia, The",65+_female,39984.0
+2479,Gaza Strip,65+_female,22607.0
+2480,Georgia,65+_female,486947.0
+2481,Germany,65+_female,10061248.0
+2482,Ghana,65+_female,652331.0
+2483,Gibraltar,65+_female,2461.0
+2484,Greece,65+_female,1277871.0
+2485,Greenland,65+_female,2579.0
+2486,Grenada,65+_female,6186.0
+2487,Guam,65+_female,7977.0
+2488,Guatemala,65+_female,403833.0
+2489,Guernsey,65+_female,7178.0
+2490,Guinea,65+_female,252874.0
+2491,Guinea-Bissau,65+_female,31451.0
+2492,Guyana,65+_female,28019.0
+2493,Haiti,65+_female,254254.0
+2494,Honduras,65+_female,230003.0
+2495,Hong Kong,65+_female,655836.0
+2496,Hungary,65+_female,1189983.0
+2497,Iceland,65+_female,26885.0
+2498,India,65+_female,43654994.0
+2499,Indonesia,65+_female,10749895.0
+2500,Iran,65+_female,2437655.0
+2501,Iraq,65+_female,794489.0
+2502,Ireland,65+_female,362455.0
+2503,Isle of Man,65+_female,9756.0
+2504,Israel,65+_female,535709.0
+2505,Italy,65+_female,7683330.0
+2506,Jamaica,65+_female,129221.0
+2507,Japan,65+_female,20146914.0
+2508,Jersey,65+_female,9475.0
+2509,Jordan,65+_female,186347.0
+2510,Kazakhstan,65+_female,962647.0
+2511,Kenya,65+_female,852675.0
+2512,Kiribati,65+_female,2879.0
+2513,"Korea, North",65+_female,1584285.0
+2514,"Korea, South",65+_female,4281344.0
+2515,Kosovo,65+_female,81928.0
+2516,Kuwait,65+_female,42392.0
+2517,Kyrgyzstan,65+_female,196108.0
+2518,Laos,65+_female,156123.0
+2519,Latvia,65+_female,256207.0
+2520,Lebanon,65+_female,243015.0
+2521,Lesotho,65+_female,52671.0
+2522,Liberia,65+_female,69797.0
+2523,Libya,65+_female,152107.0
+2524,Liechtenstein,65+_female,3734.0
+2525,Lithuania,65+_female,367783.0
+2526,Luxembourg,65+_female,50550.0
+2527,Macau,65+_female,36007.0
+2528,Macedonia,65+_female,160323.0
+2529,Madagascar,65+_female,470682.0
+2530,Malawi,65+_female,298537.0
+2531,Malaysia,65+_female,1061431.0
+2532,Maldives,65+_female,9670.0
+2533,Mali,65+_female,278542.0
+2534,Malta,65+_female,50193.0
+2535,Marshall Islands,65+_female,1628.0
+2536,Mauritania,65+_female,84350.0
+2537,Mauritius,65+_female,81616.0
+2538,Mexico,65+_female,5063903.0
+2539,"Micronesia, Federated States of",65+_female,2361.0
+2540,Moldova,65+_female,273284.0
+2541,Monaco,65+_female,5657.0
+2542,Mongolia,65+_female,81728.0
+2543,Montenegro,65+_female,52816.0
+2544,Montserrat,65+_female,140.0
+2545,Morocco,65+_female,1304287.0
+2546,Mozambique,65+_female,425738.0
+2547,Namibia,65+_female,57183.0
+2548,Nauru,65+_female,176.0
+2549,Nepal,65+_female,799626.0
+2550,Netherlands,65+_female,1788492.0
+2551,New Caledonia,65+_female,14843.0
+2552,New Zealand,65+_female,380701.0
+2553,Nicaragua,65+_female,184697.0
+2554,Niger,65+_female,256738.0
+2555,Nigeria,65+_female,3494524.0
+2556,Northern Mariana Islands,65+_female,1438.0
+2557,Norway,65+_female,489759.0
+2558,Oman,65+_female,63691.0
+2559,Pakistan,65+_female,5080448.0
+2560,Palau,65+_female,1365.0
+2561,Panama,65+_female,176396.0
+2562,Papua New Guinea,65+_female,155148.0
+2563,Paraguay,65+_female,273550.0
+2564,Peru,65+_female,1259904.0
+2565,Philippines,65+_female,2878299.0
+2566,Poland,65+_female,4049281.0
+2567,Portugal,65+_female,1259780.0
+2568,Puerto Rico,65+_female,379739.0
+2569,Qatar,65+_female,8799.0
+2570,Romania,65+_female,2141940.0
+2571,Russia,65+_female,14276798.0
+2572,Rwanda,65+_female,182953.0
+2573,Saint Barthelemy,65+_female,623.0
+2574,"Saint Helena, Ascension, and Tristan da Cunha",65+_female,601.0
+2575,Saint Kitts and Nevis,65+_female,2559.0
+2576,Saint Lucia,65+_female,10957.0
+2577,Saint Martin,65+_female,1512.0
+2578,Saint Pierre and Miquelon,65+_female,660.0
+2579,Saint Vincent and the Grenadines,65+_female,5282.0
+2580,Samoa,65+_female,6650.0
+2581,San Marino,65+_female,3681.0
+2582,Sao Tome and Principe,65+_female,3239.0
+2583,Saudi Arabia,65+_female,511687.0
+2584,Senegal,65+_female,253158.0
+2585,Serbia,65+_female,786074.0
+2586,Seychelles,65+_female,4402.0
+2587,Sierra Leone,65+_female,139255.0
+2588,Singapore,65+_female,326727.0
+2589,Sint Maarten,65+_female,2188.0
+2590,Slovakia,65+_female,530124.0
+2591,Slovenia,65+_female,243272.0
+2592,Solomon Islands,65+_female,15136.0
+2593,Somalia,65+_female,150887.0
+2594,South Africa,65+_female,1866182.0
+2595,South Sudan,65+_female,107856.0
+2596,Spain,65+_female,5118817.0
+2597,Sri Lanka,65+_female,1301338.0
+2598,Sudan,65+_female,596982.0
+2599,Suriname,65+_female,20878.0
+2600,Sweden,65+_female,1098986.0
+2601,Switzerland,65+_female,848591.0
+2602,Syria,65+_female,459707.0
+2603,Taiwan,65+_female,1840489.0
+2604,Tajikistan,65+_female,172008.0
+2605,Tanzania,65+_female,978094.0
+2606,Thailand,65+_female,4239992.0
+2607,Timor-Leste,65+_female,27100.0
+2608,Togo,65+_female,161084.0
+2609,Tonga,65+_female,3835.0
+2610,Trinidad and Tobago,65+_female,76024.0
+2611,Tunisia,65+_female,498400.0
+2612,Turkey,65+_female,3506283.0
+2613,Turkmenistan,65+_female,150618.0
+2614,Turks and Caicos Islands,65+_female,1375.0
+2615,Tuvalu,65+_female,426.0
+2616,Uganda,65+_female,450266.0
+2617,Ukraine,65+_female,4812764.0
+2618,United Arab Emirates,65+_female,35669.0
+2619,United Kingdom,65+_female,6518939.0
+2620,United States,65+_female,29276951.0
+2621,Uruguay,65+_female,290237.0
+2622,Uzbekistan,65+_female,935057.0
+2623,Vanuatu,65+_female,5894.0
+2624,Venezuela,65+_female,1281387.0
+2625,Vietnam,65+_female,3762505.0
+2626,Virgin Islands,65+_female,10542.0
+2627,Wallis and Futuna,65+_female,863.0
+2628,West Bank,65+_female,53943.0
+2629,Western Sahara,65+_female,13664.0
+2630,World,65+_female,352206092.0
+2631,Yemen,65+_female,435855.0
+2632,Zambia,65+_female,213126.0
+2633,Zimbabwe,65+_female,375860.0
+2634,Akrotiri,65+_female,
+2635,Antarctica,65+_female,
+2636,Arctic Ocean,65+_female,
+2637,Ashmore and Cartier Islands,65+_female,
+2638,Atlantic Ocean,65+_female,
+2639,Bouvet Island,65+_female,
+2640,British Indian Ocean Territory,65+_female,
+2641,Clipperton Island,65+_female,
+2642,Cocos (Keeling) Islands,65+_female,
+2643,Coral Sea Islands,65+_female,
+2644,Dhekelia,65+_female,
+2645,Falkland Islands (Islas Malvinas),65+_female,
+2646,French Southern and Antarctic Lands,65+_female,
+2647,Heard Island and McDonald Islands,65+_female,
+2648,Holy See (Vatican City),65+_female,
+2649,Howland Island,65+_female,
+2650,Indian Ocean,65+_female,
+2651,Jan Mayen,65+_female,
+2652,Jarvis Island,65+_female,
+2653,Johnston Atoll,65+_female,
+2654,Kingman Reef,65+_female,
+2655,Midway Islands,65+_female,
+2656,Navassa Island,65+_female,
+2657,Niue,65+_female,
+2658,Norfolk Island,65+_female,
+2659,Pacific Ocean,65+_female,
+2660,Palmyra Atoll,65+_female,
+2661,Paracel Islands,65+_female,
+2662,Pitcairn Islands,65+_female,
+2663,South Georgia and South Sandwich Islands,65+_female,
+2664,Southern Ocean,65+_female,
+2665,Spratly Islands,65+_female,
+2666,Svalbard,65+_female,
+2667,Tokelau,65+_female,
+2668,United States Pacific Island Wildlife Refuges,65+_female,
+2669,Wake Island,65+_female,
